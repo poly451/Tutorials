@@ -49,9 +49,35 @@ class Swords:
             return self.all_swords[self.i-1]
         else:
             raise StopIteration
-    #
-    # def __len__(self):
-    #     return len(self.all_swords)
+    
+    def __len__(self):
+        return len(self.all_swords)
+    
+    def __getitem__(self, item):
+        if item >= 0 and item < len(self.all_swords):
+            return self.all_swords[item]
+        else:
+            raise ValueError
+
+    def __setitem__(self, key, value):
+        if key >= 0 and key < len(self.all_swords):
+            self.all_swords[key] = value
+        else:
+            raise ValueError
+
+    def __delitem__(self, key):
+        new_list = []
+        counter = 0
+        if key >= 0 and key < len(self.all_swords):
+            for each_sword in self.all_swords:
+                if counter == key:
+                    pass
+                else:
+                    new_list.append(each_sword)
+                counter += 1
+            self.all_swords = new_list
+        else:
+            raise ValueError
 
     def get_new_sword(self, player):
         for a_sword in self.all_swords:
