@@ -1,0 +1,114 @@
+import cmd, sys, os
+# https://docs.python.org/3/library/cmd.html
+
+DO_NOTHING = 0
+MOVE_FORWARD = 1
+
+# **************************************************
+#                  class Grid
+# **************************************************
+
+class Grid:
+    def __init__(self):
+        self.board = []
+        self.board.append(["wcastle1", "wknight1", "wbishop1", "wking", "wqueen", "wbishop2", "wknight2", "wcastle2"])
+        self.board.append(["wpawn1", "wpawn2", "wpawn3", "wpawn4", "wpawn5", "wpawn6", "wpawn7", "wpawn8"])
+        self.board.append([".", ".", ".", ".", ".", ".", ".", "."])
+        self.board.append([".", ".", ".", ".", ".", ".", ".", "."])
+        self.board.append([".", ".", ".", ".", ".", ".", ".", "."])
+        self.board.append([".", ".", ".", ".", ".", ".", ".", "."])
+        self.board.append(["bpawn1", "bpawn2", "bpawn3", "bpawn4", "bpawn5", "bpawn6", "bpawn7", "bpawn8"])
+        self.board.append(["bcastle1", "bknight1", "bbishop1", "bking", "bqueen", "bbishop2", "bknight2", "bcastle2"])
+
+    def select_move(self, piece):
+        for i in range(8):
+            for j in range(len(self.board)):
+                if self.board[i][j] == piece:
+                    if "pawn" in piece:
+                        if self.board[i+1][j] == ".":
+                            return [MOVE_FORWARD, self.board[i][j], 1]
+        return [0, 0, 0]
+
+    def move(self, move_list:list):
+        print("This is the move list: ", move_list)
+        if move_list[0] == 1: # if you want the piece to move forward ...
+            if "knight" in move_list:
+                raise ValueError("This case needs to be handled.")
+            if "bishop" in move_list:
+                raise ValueError("This case needs to be handled.")
+            if "knight" in move_list:
+                raise ValueError("This case needs to be handled.")
+            if "king" in move_list:
+                raise ValueError("This case needs to be handled.")
+            if "queen" in move_list:
+                raise ValueError("This case needs to be handled.")
+            for i in range(len(self.board)):
+                print(self.board[i])
+                if move_list[1] in self.board[i]:
+                    for j in range(len(self.board[i])):
+                        if move_list[1] == self.board[i][j]:
+                            self.board[i][j] = "."
+                            the_element = move_list[1]
+                            self.board[i+1][j]=the_element
+                            return True
+        return False
+
+    def draw(self):
+        for i in range(8):
+            print("-" * 25)
+            for j in range(1):
+                print("{} ".format(self.board[i]))
+
+    def __repr__(self):
+        pass
+        # for i in range(8):
+        #     print("-" * 20)
+
+    def __getitem__(self, item):
+        return self.board[item]
+
+# **************************************************
+#                  class MyShell
+# **************************************************
+
+class MyShell(cmd.Cmd):
+    program_name = "Easy Chess"
+    intro = 'Welcome to {}.   Type help or ? to list commands.\n'.format(program_name)
+    prompt = '> '
+    file = None
+
+    def __init__(self):
+        super().__init__()
+        self.grid = Grid()
+        # self.grid.draw()
+
+    # ----- basic turtle commands -----
+    def do_whitemove(self, arg):
+        print(arg)
+        # print(self.grid)
+    def do_blackmove(self, arg):
+        'Turn turtle right by given number of degrees:  RIGHT 20'
+        print(arg)
+    def do_draw(self, arg):
+        # self.grid.draw()
+        next_move = self.grid.select_move("wpawn2")
+        self.grid.move(next_move)
+        self.grid.draw()
+    def do_bye(self, arg):
+        'Stop recording, close the turtle window, and exit:  BYE'
+        print('Thank you for using {}'.format(self.program_name))
+        self.close()
+        # sys.exit()
+        return True
+
+    # ----- record and playback -----
+    def close(self):
+        if self.file:
+            self.file.close()
+            self.file = None
+
+# ====================================================
+# ====================================================
+
+if __name__ == '__main__':
+    MyShell().cmdloop()
