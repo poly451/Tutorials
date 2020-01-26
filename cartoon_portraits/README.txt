@@ -1,15 +1,27 @@
-Hello! This is a little program I wrote because I needed to a cartoon portrait,
-but I wanted it to resemble me as closely as possible. Which was a problem since
-there were 10,000 png files!
+Hello! This is a little program I wrote because I needed a cartoon portrait.
 
-This was definitely a job for  Python!
+I found a dataset kindly provided by the awesome folks at Google. You can 
+find it here:
 
-I'm thigh deep in another project so i didn't want to spend a lot of time on this.
-That's why I used a text interface (the cmd module). It turns out, though, that on
-my computer, when I use matplotlib to display the cartoon portraits that it's buggy.
+https://google.github.io/cartoonset/
+
+I wanted my portrait to resemble me as closely as possible, which was a problem since
+it meant searching through 10,000 png files!
+
+This was definitely a job for Python.
+
+I'm in the middle of another project so I couldn't spend a lot of time on this.
+That's why I used a text interface (the cmd module). 
+
+All the cartoon faces you select are saved in: saved_image_names.txt.
+
+It turns out, though, that (at least on my computer) when I use matplotlib to 
+display the cartoon portraits I've selected that the final portrait will display 
+but the program will crash.
 
 I got around this by using cmd to select the photos and then using a function
-outside of cmd to display them.
+outside of cmd to display them. It's awkward, but I didn't have the time to
+do anything more sophisticated. It works.
 
 Here is a mini-tutorial.
 
@@ -32,7 +44,7 @@ loadchoices personal
 Loads the choices you've saved to file.
 
 Example 01:
-# First use of the program
+# First use of the program. Run main.py.
 
 Input "s":
 > s
@@ -55,10 +67,11 @@ Run the program again. Now type "v".
 
 You will now see each png file. Close them by typing (on the Mac) Command + w.
 
-I hope this has helped! It's a really cool dataset, but since there are 10,000
-images, one needs a way to sort through it.
+# ----------------------------------------------------------------------------
 
-It would be cool to do a second version of this program so that one doesn't
-need to know how to program in Python to use it!
+I hope this has helped! It's a really cool dataset.
+
+It would be cool to do a second version of this program so that even people
+who didn't know Python could use it!
 
 Let me know what you think! karen dot friesen at gmail dot com.
