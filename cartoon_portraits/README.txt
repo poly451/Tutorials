@@ -25,6 +25,8 @@ do anything more sophisticated. It works.
 
 Here is a mini-tutorial.
 
+# ----------------------------------------------------------------------------
+
 loadchoices default
 Loads a default set of attributes which, if applied to the dataset, would select
 every single face in the dataset.
@@ -32,10 +34,15 @@ every single face in the dataset.
 printchoices
 Prints the current set of attributes used to select faces from the dataset.
 
-alterproperty eye_color 2 3
+alterproperty <property> <value(s)>
+eg: alterproperty eye_color 2 3
 That's an example. There are 20 properties, eyecolor among them. To see a compete list
 use the PRINTCHOICES command. Also use the printchoices command to find out which
 values are allowed.
+
+alterproperty <property> showvalues
+eg: alterproperty eye_color showvalues
+If you're not sure what values are allowable use this command. 
 
 savechoices
 Saves the attributes you've selected to a file.
