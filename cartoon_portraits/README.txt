@@ -58,12 +58,15 @@ Input "s":
 
 > loadchoices default
 > alterproperty hair 30 31 32
-> alterproperty eye_color 2 3
+> alterproperty eye_color 2 3 4
 > alterproperty hair_color 2 3
-> alterproperty glasses 6 7
+> alterproperty glasses 6 7 8 9 10
 > loadchoices personal
+
 # loadchoices personal actually applies the filter you've created to the dataset.
+
 > printfaces
+
 # This will show you the characteristics of the faces you've selected.
 
 To view the png file, end the program by typing: bye.
