@@ -53,6 +53,10 @@ Loads the choices you've saved to file.
 Example 01:
 # First use of the program. Run main.py.
 
+# ----------------------------------------------------------------------------
+
+Hello World
+
 Input "s":
 > s
 
