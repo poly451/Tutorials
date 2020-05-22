@@ -1,0 +1,17 @@
+level: 1
+max_hp: 5
+max_mp: 10
+hp: 5
+mp: 10
+name: none
+kind: mage
+accuracy: 90
+gold: 20
+weapon: fists
+status_effects: []
+inventory: [2, 3]
+explored_areas: [('world', 'a1')]
+bind_point: []
+zone_name: world
+has_killed: False
+current_tile_name: a1
