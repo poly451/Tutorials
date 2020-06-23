@@ -1,0 +1,128 @@
+index: a1
+kind: entrance
+description: you stand on the outskirts of the harbor under the arch of an old brick wall.
+examine: To the EAST you hear the faint sounds of a town. To the SOUTH you can just make out the beginnings of a forest.
+up: None
+down: b1
+right: a2
+left: None
+index: a2
+kind: grass
+description: You stand on grass.
+examine: To the EAST the sounds of the town can almost be made out. To the SOUTH you can just make out a swamp.
+up: None
+down: b2
+right: a3
+left: a1
+index: a3
+kind: path
+description: You stand on grass.
+examine: To the EAST the sounds of a town can clearly be made out, you can smell roasting meat and freshly baked apple pie. To the SOUTH a great grass plane stretches out before you.
+up: None
+down: b3
+right: a4
+left: a2
+index: a4
+kind: town
+description: You stand in front of a gate. Would you like to ENTER the TOWN?
+examine: You stand in front of a gateway that leads into a town. A shrine lies to the SOUTH
+up: None
+down: b4
+right: None
+left: a3
+index: b1
+kind: path
+description: You stand on grass.
+examine: A grass plain lies to the NORTH. In the far distance in the EAST you can just make out the outlines of a shrine. To the SOUTH lies a great forest.
+up: a1
+down: c1
+right: b2
+left: None
+index: b2
+kind: grass
+description: You stand on grass.
+examine: A grass plain lies to the NORTH. In the distance in the EAST you can barely make out a Shrine. To the SOUTH you see (and smell!) a swamp. To the WEST grassland stretches out as far as the eye can see.
+up: a2
+down: c2
+right: b3
+left: b1
+index: b3
+kind: grass
+description: You stand on grass.
+examine: To the NORTH a grass plain stretches out in front of steep mountains. To the EAST sits a shrine. Grass plains stretch out to the SOUth and the WEST.
+up: a3
+down: c3
+right: b4
+left: b2
+index: b4
+kind: grass
+description: You stand on grass.
+examine: To the NORTH stands a town. Mountains lie to the EAST. To the SOUTH you find cliffs. To the WEST you see grassy planes.
+up: a4
+down: c4
+right: None
+left: b3
+index: c1
+kind: swamp
+description: You stand in a dense forest.
+examine: Grass plains stretch out to the NORTH. A swamp percolates to the EAST. To the SOUTH lies an ancient dungeon. You see mountains in the WEST.
+up: b1
+down: d1
+right: c2
+left: None
+index: c2
+kind: swamp
+description: You are in a swamp.
+examine: To the NORTH lie grass plains. To the EAST, in the distance, you see cliffs. To the SOUTH you see a swamp. To the WEST you see a forest.
+up: b2
+down: d2
+right: c3
+left: c1
+index: c3
+kind: grass
+description: You stand on grass.
+examine: To the NORTH lies grass land. To the EAST you find majestic cliffs (though not as majestic as the Cliffs of Insanity). To the SOUTH you find grass land. To the WEST lies a swamp.
+up: b3
+down: d3
+right: c4
+left: c2
+index: c4
+kind: cliff
+description: Be careful! You stand on the edge of a cliff.
+examine: To the NORTH is a shrine. To the EAST are steep, unclimbable, mountains. To the WEST, in the distance, you can make out a swamp.
+up: b4
+down: d4
+right: None
+left: c3
+index: d1
+kind: dungeon
+description: You stand in front of an ancient dungeon.
+examine: To the NORTH lies a great forest. To the EAST lies a swamp. Beyond that, in the misty distance, you can just make out the spires of a magnificent palace. To the SOUTH lies an impassible mountain range. To the WEST lies an impassible mountain range.
+up: c1
+down: None
+right: d2
+left: None
+index: d2
+kind: swamp
+description: You stand in a swamp listening to flies and feeling slime crawl up your legs.
+examine: To the NORTH lies a swamp. To the EAST stretches out grass land. Mountains stand to the SOUTH and a dungeon to the WEST.
+up: c2
+down: None
+right: d3
+left: d1
+index: d3
+kind: swamp
+description: You stand on grass.
+examine: To the NORTH is grass land. To the EAST is an opulent palace sporting swirls of color atop its many spires. To the SOUTH is a mountain range. To the WEST lies a swamp.
+up: c3
+down: None
+right: d4
+left: d2
+index: d4
+kind: grass
+description: You stand in front of the palace gates.
+examine: To the NORTH you see impossibly steep cliffs. To the EAST and SOUTH you see a craggy mountain range. To the WEST lies grassland and, beyond that, a swamp guards the way to a dungeon.
+up: c4
+down: None
+right: None
+left: d3
