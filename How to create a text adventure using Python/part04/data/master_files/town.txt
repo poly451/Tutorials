@@ -1,0 +1,159 @@
+index: a1
+kind: entrance
+description: You stand just within the gates of a town. An expanse of grass lies before you. This town has a PROVISIONER (east), an INN (southeast), a FIGHTING SCHOOL (south) and a shrine (east-ish).
+examine: The entrance to the town.
+up: None
+down: b1
+right: a2
+left: none
+npcs: none
+
+index: a2
+kind: grass
+description: You stand on soft trimmed grass. In the distance you can just make out a building.
+examine: Grass
+up: none
+down: b2
+right: a3
+left: a1
+npcs: none
+
+index: a3
+kind: grass
+description: You stand on grass. Before you, to the east, stands the Provisioners. You will be able to buy among other things. health potions and new weapons.
+examine: Grass.
+up: none
+down: b3
+right: a4
+left: a2
+npcs: none
+
+index: a4
+kind: provisioner
+description: You are in front of the Provisioners. There is a sign in front of you advertising food, weapons and armor (TALK PROVISIONER).
+examine: The Provisioners.
+up: none
+down: b4
+right: none
+left: a3
+npcs: marty
+
+index: b1
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: a1
+down: c1
+right: b2
+left: none
+npcs: none
+
+index: b2
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: a2
+down: c2
+right: b3
+left: b1
+npcs: none
+
+index: b3
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: a3
+down: c3
+right: b4
+left: b2
+npcs: none
+
+index: b4
+kind: swamp
+description: You stand in the gloopy mud of a swamp.
+examine: A swamp.
+up: a4
+down: c4
+right: none
+left: b3
+npcs: none
+
+index: c1
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: b1
+down: d1
+right: c2
+left: none
+npcs: none
+
+index: c2
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: b2
+down: d2
+right: c3
+left: c1
+npcs: none
+
+index: c3
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: b3
+down: d3
+right: c4
+left: c2
+npcs: none
+
+index: c4
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: b4
+down: d4
+right: none
+left: c3
+npcs: none
+
+index: d1
+kind: fighting school
+description: You stand in a room with high ceilings. students who are learning how to fight are practicing their craft
+examine: A fighting school.
+up: c1
+down: none
+right: d2
+left: none
+npcs: none
+
+index: d2
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: c2
+down: none
+right: d3
+left: d1
+npcs: none
+
+index: d3
+kind: grass
+description: You stand on grass.
+examine: Grass.
+up: c3
+down: none
+right: d4
+left: d2
+npcs: none
+
+index: d4
+kind: inn
+description: You stand in front of an inn
+examine: An inn.
+up: c4
+down: none
+right: none
+left: d3
+npcs: none
