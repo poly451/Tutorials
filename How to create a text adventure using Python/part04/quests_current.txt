@@ -1,0 +1,35 @@
+quest_id: 3
+quest_level: None
+quest_line: main
+quest_line_number: 4
+quest_name: Defeat the Wizard
+quest_description: Defeat the wizard who has been manipulating the King.
+npc: Captain of the King's Guard
+player_choice_1: Yes. The bastard has to die.
+player_choice_2: What he is doing is terrible but I think this might make it worse.
+player_choice_3: No. The wizard needs to go, but I don't think killing him is the answer.
+npc_response_1: May The Deity grant you grace.
+npc_response_2: If that is the way you feel, but I disagree. The wizard is a threat and he must be faced. He must be confronted and taken down.
+npc_response_3: It is a brutal solution, but there is no other.
+quest_reward: The throne
+dialogue_on_completion: Excellent! Now you must just take the throne.
+experience_points: 2
+completed: False
+
+quest_id: 4
+quest_level: None
+quest_line: main
+quest_line_number: 3
+quest_name: Get the sword
+quest_description: In order to injure an incredibly powerful wizard you need an incredibly powerful, magical sword. There is a powerful necromancer who resides in a crypt in a dungeon near here. He possesses a magical sword that could kill the wizard. But wanting a thing and getting a thing are two very different things. Are you ready?
+npc: Captain of the King's Guard
+player_choice_1: I don't know, but I need that sword to kill the wizard so I'm doing this.
+player_choice_2: Necromancer, huh? Well ... Let me think about this.
+player_choice_3: Maybe I don't need a sword. So, no thanks. I'll pass.
+npc_response_1: Good. Make sure you prepare before hand. Also, ensure you have memorized the spell. You will need to recite it immediately before confronting the necromancer.
+npc_response_2: Think well. If you want to defeat the wizard you will need the necromancer's sword.
+npc_response_3: That is disappointing. The Kingdom needs a hero. I had thought that hero was you.
+quest_reward: The magical sword of wizard smiting.
+dialogue_on_completion: Marvelous!
+experience_points: 2
+completed: False

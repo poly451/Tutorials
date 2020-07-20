@@ -1,0 +1,23 @@
+id: 3
+name: minor healing potion
+kind: healing potion
+function: restores health.
+appearance: A vial of murky liquid
+description: When you shake the vial you hear a sloshing sound.
+class_requirement: none
+cost: 1
+hit_points: 0
+mana_points: 0
+condition: good
+
+id: 4
+name: light leather armor
+kind: armor
+function: Protects the wearers body.
+appearance: It is brown and crinkly.
+description: brown shabby leather
+class_requirement: warrior
+cost: 1
+hit_points: 0
+mana_points: 0
+condition: poor

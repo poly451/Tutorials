@@ -1,0 +1,13 @@
+max_hp: 10
+max_mp: 0
+experience_points: 0
+level: 1
+gold: 4
+weapon: none
+items: 3;4
+status_effects: none
+explored_locations: none
+has_killed: False
+current_tile_index: a1
+quests_current: 3; 4
+quests_completed: 1; 2

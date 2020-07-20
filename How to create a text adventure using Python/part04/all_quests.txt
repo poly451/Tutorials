@@ -1,0 +1,53 @@
+id: 1
+level: 1
+name: Seeking Balance
+description: Monkeys! They hide in the high branches of the tress and jump on the Inn's customers and pull their hair until they're given something to eat. If the customers have nothing the monkey bites them then runs away!
+reward: weapon
+dialogue_on_completion: "Good job! Come back to me when you want another challenge."
+experience_points: 1
+completed: False
+
+id: 2
+level: 4
+name: Assume the Throne
+description: Claim the throne and go through the regeneration process.
+reward: The kingdom
+dialogue_on_completion: All Hail the King!
+experience_points: 10
+completed: False
+
+id: 3
+level: 3
+name: Defeat the Wizard
+description: Defeat the wizard who has been manipulating the King.
+reward: The throne
+dialogue_on_completion: Excellent! Now you must just take the throne.
+experience_points: 2
+completed: False
+
+id: 4
+level: 3
+name: Get the sword
+description: In order to injure an incredibly powerful wizard you need an incredibly powerful, magical sword. There is a powerful necromancer who resides in a crypt in a dungeon near here. He possesses a magical sword that could kill the wizard. But wanting a thing and getting a thing are two very different things. Are you ready?
+reward: The magical sword of wizard smiting.
+dialogue_on_completion: Marvelous!
+experience_points: 2
+completed: False
+
+id: 5
+level: 2
+name: Get the book
+description: You will need to weaken the wizard before you battle him. For that you will need a spell. An ancient tomb is kept at an ancient shrine. You need to liberate it.
+reward: An ancient tomb of spells
+dialogue_on_completion: Excellent! Do you have the magical sword yet? No ordinary sword will work on a wizard of his age and strength.
+experience_points: 2
+completed: False
+
+id: 6
+level: 1
+name: Do it my way
+description: Monkeys aren't our only problem. Our most popular dish is our mutton on a bun with lettuce but a a werewolf has been stealing the sheep, taking them back to her lair outside of town, and eating them!
+reward: Mutton on a bun
+dialogue_on_completion: Thank you! I had to see what kind of a person you are. It took resolve to kill that werewolf. We are fighting to take control of our country. Welcome. The Innkeeper puts her hand on your shoulder in a gesture of friendship.
+experience_points: 2
+completed: False

@@ -1,0 +1,19 @@
+1; magic ring; magic ring of discernment; the ring glows; reveals traps; mage; 3; 0; 0
+2; weapon; stout sword of adventuring; it's a sword; it's a sword in decent condition; warrior; 1; 0; 0
+3; healing potion; minor healing potion; a red vial; minor healing potion in a blue bottle.; all; 1; 0; 0
+4; armor; light leather armor; brown and crinkly; brown shabby leather; warrior; 1; 0; 0
+5; armor; medium leather armor; brown and less crinkly; brown somewhat shabby leather; warrior; 2; 0; 0
+6; armor; heavy leather armor; brown and firm; thick brown leather armor; warrior; 3; 0; 0
+7; healing potion; major healing potion; deep red glass vial; heals physical damage; all; 1; 0; 0
+8; healing potion; minor healing potion; glass vial containing a light red liquid; heals physical damage (hp); all; 1; 0; 0
+9; misc; dungeon key made of gold; a small piece of metal; opens the door of a dungeon; all; 0; 0; 0
+10; trap; slippery puddle trap; it looks like a huge oil slick; to get the player to slip, fall down, and take damage.; none; 0; 0; 0
+11; weapon; silver dagger of smiting; it's silver and very sharp; it can kill werewolves; none; 1; 0; 0
+12; food; beef stew; a bubbly bowl of goodness; restores hit points; none; 1; 2; 0
+13; drink; beer; dark and frothy; the effects of beer are rather unpredictable.; none; 1; 1; 1
+14; food; vegetable soup; hot, red and spicy. delicious!; restores hit points; none; 1; 1; 0
+15; drink; rum; a clear white liquid; this item has unpredictable, and occasionally astonishing, effects.; none; 2; 0; 1
+16; drink; water; a clear liquid; restores mana; mage; 1; 0; 1
+17; food; crunchy beef jerky; dry and shriveled; restores hit points; none; 1; 2; 0
+18; drink; sparkling red wine; a pale red liquid with bubbles; restores hit points and mana; none; 2; 1; 2
+19; misc; torn letter; a torn slip of paper that smells of lilac and bears a coat of arms; can be read; none; 0; 0; 0

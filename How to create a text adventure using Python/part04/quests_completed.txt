@@ -1,0 +1,35 @@
+quest_id: 1
+quest_level: None
+quest_line: none
+quest_line_number: -1
+quest_name: Seeking Balance
+quest_description: Monkeys! They hide in the high branches of the tress and jump on the Inn's customers and pull their hair until they're given something to eat. If the customers have nothing the monkey bites them then runs away!
+npc: provisioner
+player_choice_1: I want to help! What can I do?
+player_choice_2: Can you give me more information?
+player_choice_3: I'm not interested.
+npc_response_1: The birds outside the town need nesting materials. There are dead trees and bushes around town. If you shake them twigs will fall off. Once you have enough leave them in the forest just outside town.
+npc_response_2: Monkeys love eating ripe mangos. But lately the fruit hasn't had a chance to become ripe because a fungus has started growing on the trees, causing the fruit to fall off the tree while it is still ripe. Kinto mushrooms used to grow by the mango trees. They kept the fungus in check. But the mushrooms have been eaten by a new species of bird that came into the area because they haven't been able to find nesting materials. They came here, saaw the mushrooms and started snacking. If these birds were provided with nesting materials then they would go back to where they came from. The mushrooms would regrow, the mangos would ripen and the monkeys would be too busy eating to attack the Inn's customers. So the Inn would be profitable and wouldn't have to lay anyone off.
+npc_response_3: Okay then. But if the Inn closes, you won't be able to eat there anymore.
+quest_reward: weapon
+dialogue_on_completion: "Good job! Come back to me when you want another challenge."
+experience_points: 1
+completed: False
+
+quest_id: 2
+quest_level: None
+quest_line: main
+quest_line_number: 5
+quest_name: Assume the Throne
+quest_description: Claim the throne and go through the regeneration process.
+npc: Captain of the King's Guard
+player_choice_1: Yes. It is time.
+player_choice_2: Why do I have to do this?
+player_choice_3: No. I'm not doing that.
+npc_response_1: Thank you my King.
+npc_response_2: You do not have to do it. But if you do not the land will die.
+npc_response_3: Then the land will die.
+quest_reward: The kingdom
+dialogue_on_completion: All Hail the King!
+experience_points: 10
+completed: False
