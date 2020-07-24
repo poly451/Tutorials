@@ -7,7 +7,6 @@ import constants as con
 
 class TextDialog:
     def __init__(self, text, height=400, line_width=50):
-        self.BG_COLOR = con.LIGHTGREY
         self.text_list = []
         if type(text) == type("bla"):
             self.text_list = utils.separate_text_into_lines(text, line_width)
@@ -37,6 +36,10 @@ class TextDialog:
             text_width, text_height = self.font.size(elem)
             if text_height > self.line_height:
                 self.line_height = text_height
+        # -------------------------
+        self.button_color = con.BLACK
+        self.BG_COLOR = con.LIGHTGREY
+        self.window_background_color = con.WHITE
         # -------------------------
         self.mouse_pos = None
         self.okay_rect = None
@@ -75,7 +78,7 @@ class TextDialog:
         width = self.width - 20
         height = self.height - (20 * 3)
         window_rect = pygame.Rect(left, top, width, height)
-        pygame.draw.rect(self.screen, con.WHITE, window_rect)
+        pygame.draw.rect(self.screen, self.window_background_color, window_rect)
         # ----------------------
         button_width = 60
         left = int(self.width / 2) - int(button_width / 2)
@@ -83,7 +86,7 @@ class TextDialog:
         width = button_width
         height = 35
         self.okay_rect = pygame.Rect(left, top, width, height)
-        pygame.draw.rect(self.screen, con.PURPLE, self.okay_rect)
+        pygame.draw.rect(self.screen, self.button_color, self.okay_rect)
         # ----------------------
         self._draw_lines()
         # ---- Draw the button rectangle ----
