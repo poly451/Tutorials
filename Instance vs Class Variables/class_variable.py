@@ -7,9 +7,10 @@ class Car:
     def add_car(self, tires, seats):
         self.tires = tires
         self.seats = seats
+        self.number_of_cars += 1
 
     def print_car(self):
-        print("tires: {}, seats: {}".format(self.tires, self.seats))
+        print("tires: {}, seats: {}, number of cars: {}".format(self.tires, self.seats, self.number_of_cars))
 
 print("The first car: ")
 print("-" * 30)
