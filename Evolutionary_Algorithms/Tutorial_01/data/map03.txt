@@ -1,0 +1,15 @@
+g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;
+g1;g1;g1;g2;g6;g6;g6;g6;g6;g6;g6;g6;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g7;g7;g7;g7;g7;g7;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g8;g8;g8;g8;g8;g7;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g8;g9;g9;g9;g8;g7;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g8;g9;p5;g9;g8;g7;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g8;g9;g9;g9;g8;g7;g6;g2;g1;
+g1;g1;g1;g2;g6;g7;g8;g8;g8;g8;g8;g7;g6;g5;g1;
+g1;g1;g1;g5;g6;g7;g7;g7;g7;g7;g7;g7;g6;g5;g1;
+g1;g1;g1;g5;g6;g6;g6;g6;g6;g6;g6;g6;g6;g5;g1;
+g1;g1;g1;g5;g5;g5;g5;g5;g5;g5;g5;g5;g5;g5;g1;
+g1;g1;g1;g2;g4;g4;g4;g4;g4;g4;g4;g4;g4;g2;g1;
+g1;g1;g1;g2;g2;g3;g3;g3;g3;g3;g3;g3;g2;g2;g1;
+g1;g1;g1;g1;g1;g1;g2;g2;g2;g2;g2;g1;g1;g1;g1;
+g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;g1;
