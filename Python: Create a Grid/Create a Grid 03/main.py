@@ -166,6 +166,7 @@ class Wall(pygame.sprite.Sprite):
 class Walls:
     def __init__(self):
         self.walls = []
+        self.loop_index = 0
         filepath = os.path.join("data", settings.MAP)
         with open(filepath, "r") as f:
             mytiles = f.readlines()
@@ -174,16 +175,25 @@ class Walls:
         for col, tiles in enumerate(mytiles):
             for row, tile in enumerate(tiles):
                 if tile == '1':
-                    print("walls")
+                    # print("walls")
                     mywall = Wall(row, col)
                     self.walls.append(mywall)
-                    print("row: {}, col: {}".format(row, col))
+                    # print("row: {}, col: {}".format(row, col))
 
     def __getitem__(self, item):
         return self.walls[item]
 
-    # def __iter__(self):
-    #     return self
+    def __next__(self):
+        if self.loop_index >= len(self.walls):
+            self.loop_index = 0
+            raise StopIteration
+        else:
+            this_value = self.walls[self.loop_index]
+            self.loop_index += 1
+            return this_value
+    
+    def __iter__(self):
+        return self
 # ----------------------------------------------------------------
 #                           class Grass
 # ----------------------------------------------------------------
