@@ -1,0 +1,8 @@
+x: 5
+y: 3
+name: Nether
+kind: bat
+max_hit_points: 8
+hit_points: 8
+chance_to_hit: 80
+experience: 0

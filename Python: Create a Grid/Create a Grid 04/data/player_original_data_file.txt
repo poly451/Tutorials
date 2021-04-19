@@ -1,0 +1,9 @@
+x: 2
+y: 1
+name: Henry
+kind: human
+direction: DOWN
+max_hit_points: 12
+hit_points: 12
+chance_to_hit: 90
+experience: 0
