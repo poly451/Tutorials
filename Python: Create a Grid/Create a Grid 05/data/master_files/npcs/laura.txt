@@ -1,0 +1,17 @@
+x: 7
+y: 7
+character_name: Laura
+character_kind: merchant
+gold: 1
+inventory: kind: consumable; index: 1; units: 1;
+inventory: kind: consumable; index: 2; units: 1;
+inventory: kind: consumable; index: 3; units: 0;
+inventory: kind: consumable; index: 4; units: 0;
+inventory: kind: consumable; index: 5; units: 0;
+inventory: kind: consumable; index: 6; units: 0;
+inventory: kind: consumable; index: 7; units: 0;
+inventory: kind: consumable; index: 8; units: 0;
+inventory: kind: weapon; index: 1; units: 1;
+inventory: kind: weapon; index: 2; units: 1;
+inventory: kind: weapon; index: 3; units: 0;
+image: merchant03b.png
