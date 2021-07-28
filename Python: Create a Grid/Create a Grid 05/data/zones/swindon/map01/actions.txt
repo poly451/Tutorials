@@ -1,0 +1,17 @@
+name: a1
+command: load_map
+image_display: portal04
+data: zone_name: swindon; map_name: map00
+inventory_condition: red amulet
+game_condition: none
+dialog_text: You step into the portal. You feel it searching for something.
+comment: go through portal to the next zone, Swindon IF the player has the red amulet in their inventory.
+
+name: a2
+command: load_map
+image_display: portal01
+data: zone_name: green_lawn; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: Energy runs along your skin. It tingles.
+comment: go through portal to the previous map in the same zone.

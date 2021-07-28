@@ -1,0 +1,130 @@
+map_name: a0
+tile_name: npc_dead
+if tile == "a0":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "npc_dead"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "d0":
+    # cobblestones
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "cobblestones"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+    # if row == 5 and col == 8:
+    #     mydict["comment"] = "load_map;map01"
+    #     t1 = True
+    # elif row == 6 and col == 8:
+    #     mydict["comment"] = "load_map;map01"
+    #     t2 = True
+elif tile == "d1":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "cobblestones"
+    mydict["species"] = 1
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "d2":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "cobblestones"
+    mydict["species"] = 2
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "b0":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "black"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "l0":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "portal"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "l1":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "portal"
+    mydict["species"] = 1
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "l2":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "portal"
+    mydict["species"] = 2
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "g0":
+    mydict = {}
+    mydict["x"], mydict["y"] = row, col
+    mydict["kind"] = "grass"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "m0":
+    mydict = {}
+    mydict["x"], mydict["y"] = row, col
+    mydict["kind"] = "mushrooms"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "f0":
+    mydict = {}
+    mydict["x"], mydict["y"] = row, col
+    mydict["kind"] = "forest"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "h0":
+    mydict = {}
+    mydict["x"], mydict["y"] = row, col
+    mydict["kind"] = "flowers"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "s0":
+    mydict = {}
+    mydict["x"], mydict["y"] = row, col
+    mydict["kind"] = "strawberries"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
+elif tile == "..":
+    mydict = {}
+    mydict["x"] = row
+    mydict["y"] = col
+    mydict["kind"] = "empty"
+    mydict["species"] = 0
+    mydict["trigger"] = ""
+    mywalk = Walkable(mydict)
+    big_list.append(mywalk)
