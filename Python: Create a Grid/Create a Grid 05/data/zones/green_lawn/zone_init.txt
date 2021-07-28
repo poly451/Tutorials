@@ -1,0 +1,6 @@
+zone_name: swindon
+zone_description: starter_area
+merchants: laura 1 7; alvin 5 9;
+monsters: nether 3 2; mordbog 4 4;
+player_starting_coords: 1; 1;
+portal_to: harrogate 10 1; agro_area 10 10;
