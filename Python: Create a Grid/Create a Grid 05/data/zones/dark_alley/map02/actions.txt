@@ -1,0 +1,8 @@
+name: a1
+command: find_item
+image_display: dead_person_pool_of_blood
+data: gold ring
+inventory_condition: any
+game_condition: none
+dialog_text: The dead man seems vaguely familiar to you. You search the body hoping to find something that will identify him. His loved ones need to be informed of his passing. You find nothing, it seems the body has already been searched. As you're about to turn away, you notice that he is clutching something. In his fist you discover a
+comment: The player searches a body and finds a golden ring. This was one of the adventurer's bodyguards.

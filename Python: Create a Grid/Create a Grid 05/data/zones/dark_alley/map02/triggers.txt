@@ -1,0 +1,6 @@
+name: t0
+command: load_map
+data: zone_name: dark_alley; map_name: map03
+inventory_condition: gold ring
+game_condition: none
+comment: load map03
