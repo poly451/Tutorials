@@ -1,0 +1,4 @@
+character_name: henry
+zone_name: dark_alley
+map_name: map00
+profession_name: warrior

@@ -1,0 +1,17 @@
+reload inventory (rpi)
+- reloads the player's inventory from
+  the original file(s).
+* * * *
+reload player (rp)
+- repopulates the player's data from
+  the original file(s).
+  This will reload the player's
+  inventory as well.
+* * * *
+reload monsters (rm)
+- copies all the monster data from
+  the original master files into
+  the player's directory.
+* * * *
+reload all (ra)
+- resets the player AND the monsters.
