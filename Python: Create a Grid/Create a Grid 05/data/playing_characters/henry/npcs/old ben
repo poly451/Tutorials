@@ -1,0 +1,16 @@
+name: old ben
+species: human
+profession: lamplighter
+max_hit_points: 20
+hit_points: 20
+agro_level: passive
+attack_distance:2
+maximum_damage: 2
+change_to_hit: 80
+experience: 0
+image_filename: lamplighter_right.png
+image_dead_filename: skull_and_bones.png
+gold: 20
+inventory_type: beginner
+trigger: None
+is_monster: False

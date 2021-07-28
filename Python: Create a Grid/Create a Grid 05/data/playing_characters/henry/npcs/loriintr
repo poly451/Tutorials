@@ -1,0 +1,16 @@
+name: loriintr
+species: dragon
+profession: unknown
+max_hit_points: 100
+hit_points: 100
+agro_level: agro
+attack_distance:12
+maximum_damage: 50
+change_to_hit: 85
+experience: 20
+image_filename: dragon01.png
+image_dead_filename: dragon01_dead01.png
+gold: 100
+inventory_type: beginner
+trigger: None
+is_monster: True

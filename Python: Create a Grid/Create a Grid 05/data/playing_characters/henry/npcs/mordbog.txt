@@ -1,0 +1,12 @@
+x: 4
+y: 4
+name: mordbog
+kind: slime
+maximum_damage: 4
+max_hit_points: 6
+hit_points: 6
+chance_to_hit: 85
+experience: 0
+image: Slime.png
+image_dead: Slime_dead.png
+agro_level: passive

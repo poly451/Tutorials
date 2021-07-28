@@ -1,0 +1,16 @@
+name: skeleton_plain
+species: skeleton
+profession: unknown
+max_hit_points: 50
+hit_points: 50
+agro_level: passive
+attack_distance:1000
+maximum_damage: 5
+change_to_hit: 95
+experience: 0
+image_filename: skeleton_plain.png
+image_dead_filename: skeleton_plain_dead.png
+gold: 100
+inventory_type: beginner
+trigger: None
+is_monster: True
