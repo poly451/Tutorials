@@ -1,0 +1,6 @@
+name: t0
+command: load_map
+data: zone_name: dark_alley; map_name: map02
+inventory_condition: none
+game_condition: conversation_with_old_ben_completed
+comment: load map02

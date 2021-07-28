@@ -1,0 +1,7 @@
+index: 0
+condition: conversation_with_old_ben_completed
+value: False
+
+index: 1
+condition: conversation_with_random_completed
+value: False
