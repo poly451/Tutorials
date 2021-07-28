@@ -1,0 +1,8 @@
+name: a0
+command: load_map
+image_display: portal_cobblestones02
+data: zone_name: green_lawn; map_name: map00
+inventory_condition: gold ring
+game_condition: none
+dialog_text: Energy flows over your skin.
+comment: The player goes through a portal.
