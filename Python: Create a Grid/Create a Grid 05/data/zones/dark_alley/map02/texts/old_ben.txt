@@ -1,0 +1,8 @@
+index: 0
+prompt: Hail! The night is dark and twisted things hide in the shadows. You'd best be on your way.
+choice_1: You nod and move away.
+choice_2: You say, "Thanks for the warning."
+choice_3: You say, "Well, you're a cheery one, aren't you?" You then turn and hurry away.
+response_1: The man watches as you move away.; Continue
+response_2: The man nods.; Continue
+response_3: The man growls at you.; End Conversation
