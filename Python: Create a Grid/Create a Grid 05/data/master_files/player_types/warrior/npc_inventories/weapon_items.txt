@@ -1,0 +1,71 @@
+index: 1
+weapon_kind: sword
+name: rusty sword
+quality: 1
+cost: 1
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 2
+weapon_kind: sword
+name: normal sword
+quality: 2
+cost: 1
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 3
+weapon_kind: sword
+name: rusty longsword
+quality: 1
+cost: 2
+top_damage: 4
+minimum_damage: 1
+filename: sword02.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 4
+weapon_kind: magic_item
+name: red amulet
+quality: 10
+cost: 20
+top_damage: 0
+minimum_damage: 0
+filename: amulet01.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 5
+weapon_kind: magic_item
+name: gold ring
+quality: 20
+cost: 30
+top_damage: 0
+minimum_damage: 0
+filename: gold_ring.png
+core_item: True
+units: 100
+range_of_effect: 1
+
+index: 6
+weapon_kind: magic_item
+name: silver cross
+quality: 20
+cost: 30
+top_damage: 0
+minimum_damage: 0
+filename: silver_necklace_plain.png
+core_item: False
+units: 1
+range_of_effect: 3
