@@ -1,0 +1,14 @@
+name: henry
+species: human
+direction: -90
+max_hit_points: 20
+hit_points: 20
+chance_to_hit: 90
+experience: 0
+profession: Warrior
+gold: 20
+image_down: male_beginner_down.png
+image_up: male_beginner_up.png
+image_right: male_beginner_right.png
+image_left: male_beginner_left.png
+image_dead: skull_and_bones.png
