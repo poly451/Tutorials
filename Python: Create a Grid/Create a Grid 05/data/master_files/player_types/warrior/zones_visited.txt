@@ -1,0 +1,11 @@
+swindon: never_visited
+easthaven: never_visited
+harrogate: never_visited
+liche_dungeon: never_visited
+great_forest: never_visited
+dragon_lair: never_visited
+king_castle: never_visited
+agro_area: never_visited
+starting_dungeon: never_visited
+testing: never_visited
+green_lawn: never_visited
