@@ -1,0 +1,15 @@
+name: tyla
+function: questgiver
+species: human
+profession: healer
+max_hit_points: 8
+hit_points: 8
+agro_level: passive
+attack_distance:1
+maximum_damage: 1
+chance_to_hit: 80
+experience: 0
+gold: 10
+inventory_type: beginner
+is_monster: False
+model_name: elf_ears_female

@@ -1,0 +1,15 @@
+name: lilly
+function: questgiver
+species: human
+profession: barkeep
+max_hit_points: 20
+hit_points: 20
+agro_level: passive
+attack_distance:2
+maximum_damage: 2
+chance_to_hit: 80
+experience: 0
+gold: 20
+inventory_type: beginner
+is_monster: False
+model_name: lilly

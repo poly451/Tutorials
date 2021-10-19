@@ -1,0 +1,4 @@
+character_name: henry
+zone_name: swindon_pub_haunted
+map_name: map00
+profession_name: warrior

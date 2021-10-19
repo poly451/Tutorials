@@ -1,0 +1,15 @@
+name: daith
+function: assassin
+species: human
+profession: mercenary
+max_hit_points: 20
+hit_points: 0
+agro_level: agro
+attack_distance:10
+maximum_damage: 2
+chance_to_hit: 50
+experience: 0
+gold: 5
+inventory_type: beginner
+is_monster: True
+model_name: shady_mercenary

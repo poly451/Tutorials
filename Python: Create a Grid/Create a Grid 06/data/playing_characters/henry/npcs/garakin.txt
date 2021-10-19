@@ -1,0 +1,15 @@
+name: garakin
+function: resource
+species: bird
+profession: unknown
+max_hit_points: 1
+hit_points: 1
+agro_level: passive
+attack_distance:1
+maximum_damage: 1
+chance_to_hit: 80
+experience: 0
+gold: 0
+inventory_type: beginner
+is_monster: False
+model_name: blue_bird

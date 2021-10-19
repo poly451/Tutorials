@@ -1,0 +1,15 @@
+name: skeleton_plain
+function: predator
+species: skeleton
+profession: unknown
+max_hit_points: 50
+hit_points: 44
+agro_level: agro
+attack_distance:1000
+maximum_damage: 5
+chance_to_hit: 95
+experience: 20
+gold: 100
+inventory_type: beginner
+is_monster: True
+model_name: skeleton

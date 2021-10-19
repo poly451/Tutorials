@@ -1,0 +1,99 @@
+index: 1
+item_kind: food
+species: roast
+name: dry roast
+cost: 3
+hp: 4
+filename: roast01.png
+core_item: False
+units: 100
+
+index: 2
+item_kind: food
+species: bread
+name: dry bread
+cost: 2
+hp: 2
+filename: bread01.png
+core_item: False
+units: 100
+
+index: 3
+item_kind: food
+species: jerky
+name: tough jerky
+cost: 2
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 4
+item_kind: food
+species: lembas
+name: stale lembas
+cost: 4
+hp: 7
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 5
+item_kind: food
+species: stew
+name: soupy stew
+cost: 3
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 6
+item_kind: food
+species: soup
+name: stewy soup
+cost: 3
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 7
+item_kind: drink
+species: water
+name: bitter water
+cost: 1
+hp: 1
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 8
+item_kind: drink
+species: wine
+name: spoiled wine
+cost: 2
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 9
+item_kind: food
+species: strawberries
+name: wild strawberries
+cost: 1
+hp: 0
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 10
+item_kind: drink
+species: potion
+name: special health
+cost: 0
+hp: 10
+filename: health_potion_special.png
+core_item: False
+units: 100

@@ -1,0 +1,24 @@
+index: 2
+weapon_kind: sword
+name: normal sword
+quality: 2
+cost: 1
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: False
+units: 1
+range_of_effect: 1
+
+index: 23
+weapon_kind: money
+name: gold coin
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: gold_coin.png
+core_item: False
+units: 30
+range_of_effect: 0
+

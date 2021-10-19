@@ -1,0 +1,324 @@
+index: 1
+weapon_kind: sword
+name: rusty sword
+quality: 1
+cost: 1
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 2
+weapon_kind: sword
+name: normal sword
+quality: 2
+cost: 1
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 3
+weapon_kind: sword
+name: rusty longsword
+quality: 1
+cost: 2
+top_damage: 4
+minimum_damage: 1
+filename: sword02.png
+core_item: False
+units: 100
+range_of_effect: 1
+
+index: 4
+weapon_kind: magic_item
+name: red amulet
+quality: 10
+cost: 20
+top_damage: 0
+minimum_damage: 0
+filename: amulet01.png
+core_item: False
+units: 1
+range_of_effect: 1
+
+index: 5
+weapon_kind: magic_item
+name: gold ring
+quality: 20
+cost: 30
+top_damage: 0
+minimum_damage: 0
+filename: gold_ring.png
+core_item: True
+units: 100
+range_of_effect: 1
+
+index: 6
+weapon_kind: magic_item
+name: silver cross
+quality: 20
+cost: 30
+top_damage: 0
+minimum_damage: 0
+filename: silver_necklace_plain.png
+core_item: False
+units: 1
+range_of_effect: 3
+
+index: 7
+weapon_kind: gem
+name: special ruby
+quality: 20
+cost: 0
+top_damage: 0
+minimum_damage: 0
+filename: ruby.png
+core_item: False
+units: 1
+range_of_effect: 3
+
+index: 8
+weapon_kind: sword
+name: ancient sword
+quality: 1
+cost: 0
+top_damage: 1
+minimum_damage: 0
+filename: sword01.png
+core_item: True
+units: 1
+range_of_effect: 1
+
+index: 9
+weapon_kind: magic_item
+name: special ruby
+quality: 8
+cost: 2
+top_damage: 4
+minimum_damage: 0
+filename: ruby.png
+core_item: false
+units: 1
+range_of_effect: 1
+
+index: 10
+weapon_kind: necklace
+name: tarnished necklace
+quality: 1
+cost: 4
+top_damage: 0
+minimum_damage: 0
+filename: placeholder.png
+core_item: False
+units: 1
+range_of_effect: 0
+
+index: 11
+weapon_kind: sword
+name: good sword
+quality: 2
+cost: 8
+top_damage: 4
+minimum_damage: 1
+filename: sword02.png
+core_item: False
+units: 1
+range_of_effect: 0
+
+weapon_kind: gem
+name: perfect emerald
+quality: 1
+cost: 100
+top_damage: 0
+minimum_damage: 0
+filename: perfect_emerald.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 12
+
+weapon_kind: gem
+name: flawed emerald
+quality: 1
+cost: 50
+top_damage: 0
+minimum_damage: 0
+filename: flawed_emerald.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 13
+
+weapon_kind: metal
+name: silver nugget
+quality: 1
+cost: 2
+top_damage: 0
+minimum_damage: 0
+filename: silver_nugget.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 14
+
+weapon_kind: rock
+name: dull rock
+quality: 1
+cost: 2
+top_damage: 0
+minimum_damage: 0
+filename: dull_rock01.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 15
+
+weapon_kind: feather
+name: blue feather
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: blue_feather.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 16
+
+weapon_kind: metal
+name: small magnet
+quality: 1
+cost: 0
+top_damage: 0
+minimum_damage: 0
+filename: magnet.png
+core_item: true
+units: 1
+range_of_effect: 1.5
+index: 17
+
+weapon_kind: book
+name: small book
+quality: 1
+cost: 0
+top_damage: 2
+minimum_damage: 0
+filename: book01.png
+core_item: false
+units: 1
+range_of_effect: 1
+index: 18
+
+weapon_kind: feather
+name: blue feather
+quality: 1
+cost: 0
+top_damage: 0
+minimum_damage: 0
+filename: blue_feather.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 19
+
+weapon_kind: rumor
+name: swindon_bertron rumor001
+quality: 1
+cost: 10
+top_damage: 0
+minimum_damage: 0
+filename: note01.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 20
+
+weapon_kind: note
+name: crumpled note
+quality: 1
+cost: 10
+top_damage: 0
+minimum_damage: 0
+filename: note01.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 21
+
+weapon_kind: rumor
+name: ring rumor
+quality: 1
+cost: 10
+top_damage: 0
+minimum_damage: 0
+filename: bertron_the_jeweler_note.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 22
+
+weapon_kind: money
+name: gold coin
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: gold_coin.png
+core_item: false
+units: 1
+range_of_effect: 0
+index: 23
+
+weapon_kind: note
+name: westley note
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: westley_note.png
+core_item: false
+units: 1
+range_of_effect: 0
+index: 24
+
+weapon_kind: note
+name: lilly iou
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: note_lilly_iou.png
+core_item: false
+units: 1
+range_of_effect: 0
+index: 25
+
+weapon_kind: note
+name: mercenary note
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: mercenary_note01.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 26
+
+weapon_kind: note
+name: charlel introduction
+quality: 1
+cost: 0
+top_damage: 0
+minimum_damage: 0
+filename: note_charlel_introduction.png
+core_item: true
+units: 1
+range_of_effect: 0
+index: 27
+

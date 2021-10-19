@@ -1,0 +1,17 @@
+name: hector
+species: human
+profession: antiques
+max_hit_points: 8
+hit_points: 8
+agro_level: passive
+attack_distance: 1
+maximum_damage: 1
+chance_to_hit: 60
+experience: 0
+gold: 40
+inventory_type: beginner
+is_monster: False
+model_name: older_merchant_male
+x: 0
+y: 0
+npc_position: up

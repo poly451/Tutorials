@@ -1,0 +1,12 @@
+x: 5
+y: 3
+name: nether
+kind: bat
+maximum_damage: 2
+max_hit_points: 8
+hit_points: 8
+chance_to_hit: 80
+experience: 0
+image: giant_bat.png
+image_dead: giant_bat_dead02.png
+agro_level: passive

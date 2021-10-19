@@ -1,0 +1,19 @@
+name: laura
+species: human
+profession: merchant
+max_hit_points: 20
+hit_points: 20
+agro_level: passive
+attack_distance:2
+maximum_damage: 2
+chance_to_hit: 80
+experience: 0
+image_filename: merchant03_right.png
+image_up: <Surface(200x200x32 SW)>
+image_down: <Surface(200x200x32 SW)>
+image_right: <Surface(200x200x32 SW)>
+image_left: <Surface(200x200x32 SW)>
+image_dead_filename: skull_and_bones.png
+gold: 20
+inventory_type: beginner
+is_monster: False

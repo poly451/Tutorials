@@ -1,0 +1,14 @@
+name: aerittas
+species: dragon
+profession: unknown
+max_hit_points: 2000
+hit_points: 2000
+agro_level: passive
+maximum_damage: 100
+chance_to_hit: 99
+experience: 5000
+image_filename: dragon01.png
+image_dead_filename: dragon01_dead01.png
+gold: 10000
+inventory_type: advanced
+trigger: none

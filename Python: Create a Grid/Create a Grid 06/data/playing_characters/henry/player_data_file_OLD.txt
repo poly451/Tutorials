@@ -1,0 +1,10 @@
+name: henry
+species: human
+direction: -90
+max_hit_points: 20
+hit_points: 20
+chance_to_hit: 90
+experience: 0
+profession: Warrior
+gold: 20
+image_model: wanderer01

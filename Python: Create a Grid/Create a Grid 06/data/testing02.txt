@@ -1,0 +1,8 @@
+npc_name: old_ben
+quest_name: the lamplighter and lilly
+quest_description: The adventurer is given directions to a friendly place she can stay and perhaps discover who she really is.
+reward_offered: none
+quest_accepted: False
+quest_completed: False
+required_item: tough jerky
+number_of_items: 0

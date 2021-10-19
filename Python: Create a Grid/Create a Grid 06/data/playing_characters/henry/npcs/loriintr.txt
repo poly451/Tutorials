@@ -1,0 +1,15 @@
+name: loriintr
+function: predator
+species: dragon
+profession: unknown
+max_hit_points: 100
+hit_points: 2
+agro_level: agro
+attack_distance:80
+maximum_damage: 5
+chance_to_hit: 85
+experience: 20
+gold: 100
+inventory_type: beginner
+is_monster: True
+model_name: green_orange_dragon
