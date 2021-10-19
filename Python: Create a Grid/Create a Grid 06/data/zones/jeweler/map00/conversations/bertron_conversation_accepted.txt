@@ -1,0 +1,23 @@
+index: 0
+prompt: Hi again. How are you doing on your quest?
+choice_1: You lick your blueberry stained lips and say, "I'm making headway, but it may take me another day or so."
+choice_2: You say, "All done! Here are your feathers."
+choice_3: You say, "Umm, what was it you wanted?"
+response_1: Tyla says, "Please hurry!"
+response_2: Tyla says, "Wonderful! Thank you. Here is your gold."
+response_3: Tyla scowls. "You said you would deliver 3 blue feathers. The birds fly over the cliffs. Take the portal."
+todo_1: end conversation
+todo_2: completed
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

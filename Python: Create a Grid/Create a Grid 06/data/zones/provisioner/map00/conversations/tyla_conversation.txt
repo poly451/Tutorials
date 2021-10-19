@@ -1,0 +1,191 @@
+index: 0
+prompt: Hi! My name is Tyla. Welcome to Swindon. If you are looking for a job, I may have something for you.
+choice_1: You say, "Thanks, but not right now."
+choice_2: You say, "Tell me about the job."
+choice_3: You say, "You're a healer? Do you have a health potion I could buy?"
+response_1: Tyla smiles and says, "As you wish. If you change your mind, you know where to find me."
+response_2: Tyla nods.
+response_3: Tyla says, "Of course, one moment..."
+todo_1: end conversation
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: 5
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Tyla says, "I need three blue feathers in order to create a special healing potion."
+choice_1: You yawn, "Bored now. Bye."
+choice_2: You say, "Okay. Blue feathers. That doesn't sound difficult. Tell me more."
+choice_3: You say, "Feathers? Sorry, I'm allergic."
+response_1: Tyla scowls at you.
+response_2: Tyla smiles.
+response_3: Tyla says, "Oh no! I completely understand. Be well."
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 2
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Tyla says, "The feathers are rare. They come from birds that fly along the cliffs. It's dangerous work and the raccoons will attack you if you try to leave the town."
+choice_1: You say, "Well, okay. I'm not greedy, but ... how much are you willing to pay for a feather from one of these birds?"
+choice_2: You say, "Okay. That sounds interesting. But I'm new here, I'm not sure I would know where to go. Perhaps I'll come back later.."
+choice_3: You say, "Raccoons! Oh, no. I'm not tangling with those raccoons again. Get your feathers yourself."
+response_1: Tyla says, "Oh, of course! I will pay you well. 40 gold for three feathers."
+response_2: Tyla nods, "With pleasure!"
+response_3: Tyla nods, "Okay. I can't say I'm not disappointed, but I understand. Go in peace."
+todo_1: continue
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 3
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Tyla says, "To find the birds in question, just take the portal out of town and visit the cliffs. So, what do you say?"
+choice_1: You say, "Yes! I'll get your feathers for you."
+choice_2: You say, "Give me some time to think about it."
+choice_3: You say, "Sorry, but I'm not interested, those raccoons are scary."
+response_1: Tyla says, "Great!"
+response_2: Tyla nods, "Sure."
+response_3: Tyla frowns at you and turns away.
+todo_1: continue
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 4
+next_card_2: none
+next_card_3: none
+quest_accepted_1: true
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 4
+prompt: Tyla says, "Thank you. That is wonderful of you. Please hurry. The potion I need the feathers for is a healing potion, and my patient isn't doing too well. Speed is of the essence. Take the portal."
+choice_1: You say, "I will hurry."
+choice_2: You say, "So... No pressure. Thanks."
+choice_3: You nod."
+response_1: Tyla says, "May the Ancient One be with you."
+response_2: Tyla shrugs. "it is what it is."
+response_3: Tyla nods back.
+todo_1: accepted
+todo_2: accepted
+todo_3: accepted
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: true
+quest_accepted_2: true
+quest_accepted_3: true
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 5
+prompt: Tyla says, "I only sell small health potions. How many potions would you like to buy?"
+choice_1: You say, "I'll buy one."
+choice_2: You say, "I'll buy three."
+choice_3: You say, "I've changed my mind."
+response_1: Tyla says, "Here you go," and hands you a small, corked, bottle. Inside is a deep red ruby colored liquid. You carefully place it in your backpack.
+response_2: Tyla says, "Here you go," and hands you three small, corked, bottles. You carefully place them in your backpack.
+response_3: Tyla nods. "Very well. But you won't find a better price anywhere in the five lands."
+todo_1: buy 1
+todo_2: buy 3
+todo_3: continue
+item_1: health potion
+item_2: health potion
+item_3: none
+next_card_1: 6
+next_card_2: 6
+next_card_3: 6
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 6
+prompt: Tyla says, "Was there anything else?"
+choice_1: You say, "What was that about the five lands?"
+choice_2: You say, "You said something about having a job for me?"
+choice_3: You say, "Nope. Goodbye."
+response_1: Tyla says, "Here you go," and hands you a small, corked, bottle. Inside is a deep red ruby colored liquid. You carefully place it in your backpack.
+response_2: Tyla says, "Yes. If you're up for it."
+response_3: Tyla nods. "Very well. But you won't find a better price anywhere in the five lands."
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 7
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 7
+prompt: Tyla says, "The five lands... It is said that we live on an island surrounded by four other worlds. Personally, I think that is foolishness. If you want to know more go keep your eyes and ears open."
+choice_1: You say, "Mysterious much?"
+choice_2: You say, "Ummmm.... Okay."
+choice_3: You say, "You said something about a job?"
+response_1: Tyla says, "Here you go," and hands you a small, corked, bottle. Inside is a deep red ruby colored liquid. You carefully place it in your backpack.
+response_2: Tyla says, "Here you go," and hands you three small, corked, bottles. You carefully place them in your backpack.
+response_3: Tyla nods. "Very well. But you won't find a better price anywhere in the five lands."
+todo_1: end conversation
+todo_2: end conversation
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: 1
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

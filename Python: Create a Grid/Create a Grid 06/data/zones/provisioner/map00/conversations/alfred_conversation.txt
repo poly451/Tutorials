@@ -1,0 +1,215 @@
+index: 0
+prompt: Hi! My name is Alfred. Welcome to Swindon. Would you like to buy food, drink, or other items?
+choice_1: You say, "Thanks, but not right now."
+choice_2: You say, "I'd like to buy something."
+choice_3: You say, "I would like to look at your weapons, if you have any."
+response_1: Alfred smiles and says, "As you wish. If you change your mind, you know where to find me."
+response_2: Alfred nods.
+response_3: Alfred nods. "Of course. One moment..."
+todo_1: end conversation
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: 3
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Alfred says, "Would you like to buy food or drink or something else?"
+choice_1: You say, "I would like to buy something to eat."
+choice_2: You say, "I would like to buy something to drink."
+choice_3: You say, "I've changed my mind. Goodbye."
+response_1: Alfred nods.
+response_2: Alfred nods.
+response_3: Alfred says, "If you would like to buy something, visit Bartholomew."
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 4
+next_card_3: none
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Alfred says, "Let me know what you would like to buy."
+choice_1: You say, "stewy soup"
+choice_2: You say, "dry bread"
+choice_3: You say, "Neither of those interest me. What else do you have for sale?"
+response_1: Alfred says, "One moment..."
+response_2: Alfred nods, "One moment..."
+response_3: Alfred sighs and says, "Fine."
+todo_1: continue
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 5
+next_card_2: 6
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Alfred says, "I have two weapons for sale, a rusty sword and a rusty longsword. Let me know if you're interested."
+choice_1: You say, "I'll take the rusty sword."
+choice_2: You say, "I'll take the rusty longsword."
+choice_3: You say, "Sorry, not interested."
+response_1: Alfred says, "Okay, here you are..."
+response_2: Alfred nods, "Okay, here you are..."
+response_3: Alfred frowns at you.
+todo_1: buy 1
+todo_2: buy 1
+todo_3: continue
+item_1: rusty sword
+item_2: rusty longsword
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 4
+prompt: Alfred says, "Let me know what you would like to buy."
+choice_1: You say, "bitter water"
+choice_2: You say, "spoiled wine"
+choice_3: You say, "Neither of those interest me. What else do you have for sale?"
+response_1: Alfred says, "One moment..."
+response_2: Alfred nods, "One moment..."
+response_3: Alfred sighs and says, "Fine."
+todo_1: continue
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 7
+next_card_2: 8
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 5
+prompt: Alfred says, "The stewy soup is my favorite. How many would you like?"
+choice_1: You say, "Just one, thanks."
+choice_2: You say, "I'll take three."
+choice_3: You say, "I've changed my mind."
+response_1: Tyla says, "May the Ancient One be with you."
+response_2: Tyla shrugs. "it is what it is."
+response_3: Tyla nods back.
+todo_1: buy 1
+todo_2: buy 3
+todo_3: continue
+item_1: stewy soup
+item_2: stewy soup
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 6
+prompt: Index 6
+choice_1: You say, "I will hurry."
+choice_2: You say, "So... No pressure. Thanks."
+choice_3: You nod."
+response_1: Tyla says, "May the Ancient One be with you."
+response_2: Tyla shrugs. "it is what it is."
+response_3: Tyla nods back.
+todo_1: accepted
+todo_2: accepted
+todo_3: accepted
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 7
+prompt: Alfred says, "Okay. Here's some bitter water. Tastes awful, but it has its uses. How many would you like to buy?"
+choice_1: You say, "Just one, thanks."
+choice_2: You say, "I'll take three."
+choice_3: You say, "I've changed my mind."
+response_1: Alfred says, "All right, here you go..."
+response_2: Alfred shrugs. "Ah! Thinking ahead. Good job. These won't go to waste."
+response_3: Alfred nods.
+todo_1: buy 1
+todo_2: buy 3
+todo_3: continue
+item_1: bitter water
+item_2: bitter water
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 8
+prompt: Alfred says, "Sure, spoiled wine. There you go. How many would you like to buy?"
+choice_1: You say, "Just one, thanks."
+choice_2: You say, "I'll take three."
+choice_3: You say, "I've changed my mind."
+response_1: Alfred says, "All right, here you go..."
+response_2: Alfred shrugs. "Ah! Thinking ahead. Good job."
+response_3: Alfred nods.
+todo_1: buy 1
+todo_2: buy 3
+todo_3: continue
+item_1: spoiled wine
+item_2: spoiled wine
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: false
+quest_accepted_2: false
+quest_accepted_3: false
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

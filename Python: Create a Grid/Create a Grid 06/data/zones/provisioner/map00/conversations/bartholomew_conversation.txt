@@ -1,0 +1,143 @@
+index: 0
+prompt: Hi! Welcome. My name is Bartholomew. Would you like to sell something? If you would rather buy, please go see my colleague Bartholomew.
+choice_1: You say, "I would like to sell food or drink."
+choice_2: You say, "I would like to sell something else."
+choice_3: You say, "That's okay, I just stopped by to say hello."
+response_1: Bartholomew says, "Okay, just a moment..."
+response_2: Bartholomew nods, "Okay, if you wouldn't mind coming over here..."
+response_3: Bartholomew nods, "Your gold is welcome here, come back anytime."
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 3
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Would you like to sell anything else?
+choice_1: You say, "I would like to look at food and drink."
+choice_2: You say, "I would like to look at something else."
+choice_3: You say, "No, that's all for now."
+response_1: Bartholomew says, "Okay, just a moment..."
+response_2: Bartholomew nods, "Okay, I'll get that for you..."
+response_3: Bartholomew nods, "Take care friend, come back anytime!"
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 5
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Bartholomew nods at you, "Show me the food or drink you have for sale."
+choice_1: You say, "I would like to sell a loaf of dry bread."
+choice_2: You say, "I would like to sell a flask of bitter water."
+choice_3: You say, "Now that I think of it, I don't have any food or drink to sell."
+response_1: Bartholomew says, "Okay, just a moment..."
+response_2: Bartholomew nods, "Okay, one moment..."
+response_3: Bartholomew nods, "All right."
+todo_1: sell 1
+todo_2: sell 1
+todo_3: continue
+item_1: dry bread
+item_2: bitter water
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Bartholomew says, "I will buy swords and jewelry."
+choice_1: You say, "I would like to sell a rusty sword."
+choice_2: You say, "I would like to sell a red amulet."
+choice_3: You say, "I would like you to take a look at this gold ring."
+response_1: Bartholomew says, "Okay, just a moment, let me take a look." He shakes his head. "You call this a sword? I'd be more intimidated by a walking stick! Bah. I'll buy it."
+response_2: Bartholomew nods, "Okay, let's see that. ... Hmmmm. That's quite nice. Yes, I'll buy that. Thank you."
+response_3: Bartholomew look startled. "Okay." He says. "Do you want to sell this?" Bartholomew frowns as he brings the ring up to his eye. Something that he sees seems to worry him. "No. I don't want this, but someone else might."
+todo_1: sell 1
+todo_2: continue
+todo_3: continue
+item_1: rusty sword
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: 4
+next_card_3: 5
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 4
+prompt: Bartholomew examines the red amulet. "Very nice. Very nice indeed. But..." Bartholomew pauses and shakes his head. "I do not have a market for this. Take it to Bertron the jeweler, he occasionally buys...exotic...items."
+choice_1: You say, "Okay. Good to know."
+choice_2: You say, "All right. I guess I'll go see Bertron then. Goodbye."
+choice_3: You say, "Goodbye."
+response_1: Bartholomew nods.
+response_2: Bartholomew nods, "Okay, let's see that. ... Hmmmm. That's quite nice. Yes, I'll buy that. Thank you."
+response_3: Bartholomew look startled. "Okay." He says. "Do you want to sell this?" Bartholomew frowns as he brings the ring up to his eye. Something that he sees seems to worry him. "No. I don't want this, but someone else might."
+todo_1: continue
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 5
+prompt: Bartholomew examines the gold ring. "No. I don’t want this, but keep trying to sell it, someone might want it. Perhaps someone who exclusively sells jewelry."
+choice_1: You say, "Okay. Thanks."
+choice_2: You say, "All right. Goodbye."
+choice_3: You say, "Goodbye."
+response_1: Bartholomew nods.
+response_2: Bartholomew nods, "Goodbye."
+response_3: Bartholomew nods.
+todo_1: continue
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

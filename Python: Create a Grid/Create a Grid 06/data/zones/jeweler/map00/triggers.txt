@@ -1,0 +1,6 @@
+name: t1
+command: load_map
+data: zone_name: swindon; map_name: map00
+inventory_condition: none
+game_condition: none
+comment: Loads a map which spawns includes a monster

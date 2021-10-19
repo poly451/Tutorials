@@ -1,0 +1,20 @@
+index: 0
+quest_name: the three feathers
+quest_summary: Tyla needs three feathers from the garakin birds to make a special healing potion.
+quest_display_text: none
+zone_name_giver: provisioner
+map_name_giver: map00
+npc_name_giver: tyla
+zone_name_receiver: provisioner
+map_name_receiver: map00
+npc_name_receiver: tyla
+quest_area_zone_name: provisioner
+quest_area_map_name: map00
+quest_area_npc: tyla
+quest_area_success_item: blue feather
+quest_area_number_of_success_items: 3
+quest_reward_item: None
+quest_reward_item_number: None
+quest_reward_gold: 40
+quest_accepted: False
+quest_completed: False

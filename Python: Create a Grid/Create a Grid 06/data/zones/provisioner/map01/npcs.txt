@@ -1,0 +1,23 @@
+tile: n6
+npc_file: alfred.txt
+npc_position: up
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
+
+tile: n7
+npc_file: tyla.txt
+npc_position: up
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
+
+tile: n8
+npc_file: bartholomew.txt
+npc_position: up
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive

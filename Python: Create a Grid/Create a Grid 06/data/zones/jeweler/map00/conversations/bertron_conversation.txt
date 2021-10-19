@@ -1,0 +1,95 @@
+index: 0
+prompt: Hi! My name is Bertron. Welcome to Swindon. Business has been slow lately because of those blasted raccoons so I don't have anything to sell at the present. Anyway. If you have jewelry or, perhaps, a gem you'd like to sell, I'll take a look.
+choice_1: You say, "Thanks, but I just came in to say hello."
+choice_2: You say, "Okay. As it happens I have a couple of things I'd like to show you."
+choice_3: You say, "As you've noticed, I need gold. Do you know where I could find work?"
+response_1: Bertron nodds.
+response_2: Bertron says, "As you like. Let's see them."
+response_3: Bertron says, "Check with Tyla the healer or Aiza the baker. Tyla works out of Alfred's Goods and Aiza is usually in the local pub, The Fiery Cauldron."
+todo_1: end conversation
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 2
+next_card_3: 1
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Bertron says, "Would you like anything else?"
+choice_1: You say, "Thanks, but that's it. I'll be on my way."
+choice_2: You say, "Yes, there is something I would like to show you."
+choice_3: You say, "I need gold. Do you know where I could find work?"
+response_1: Bertron grunts at you.
+response_2: Bertron says, "Let's see it."
+response_3: Bertron says, "Check with Tyla the healer or Aiza the baker. Tyla works out of Alfred's Goods and Aiza is usually in the local pub, The Fiery Cauldron."
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 2
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Bertron says, "Show me what you've got."
+choice_1: You yawn, "Tired now. I'll be going."
+choice_2: You say, "I'd like to sell this red amulet I found."
+choice_3: You say, "I'd be interested in what you can tell me about this gold ring."
+response_1: Bertron scowls at you.
+response_2: Bertron examines the red amulet. "Hummm. Unusual. I'll pay you 20 gold for it."
+response_3: Bertron examines the gold ring. "Why are you trying to sell me this piece of rubbish? Take it to Hector in Easthaven; that piece of garbage looks nearly as old as he is so perhaps he'll want it."
+todo_1: end conversation
+todo_2: sell 1
+todo_3: continue
+item_1: none
+item_2: red amulet
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 3
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Bertron gazes at you for a long moment. "I've heard about you. We don't get many newcomers here. Not to put too fine a point on it, business has been slow. If you were to give me 10 gold I could tell you something more about that gold ring of yours."
+choice_1: You scowl at Bertron. "So that's the way of it? All right, here you go. Have your 10 gold. But this had best be worth the coin."
+choice_2: You say, "10 gold! No thank you. I'll find out whatever I need to on my own."
+choice_3: You say, "Let me think about it."
+response_1: Bertron nods.
+response_2: Bertron scowls at you.
+response_3: Bertron nods.
+todo_1: buy 1
+todo_2: end conversation
+todo_3: continue
+item_1: ring rumor
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: none
+next_card_3: 1
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

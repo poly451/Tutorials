@@ -1,0 +1,20 @@
+index: 0
+quest_name: sell_goods_to_bartholemew01
+quest_summary: Player is asked whether they want to sell goods. This isn't a quest, but I'm using the same mechanic.
+quest_display_text: none
+zone_name_giver: provisioner
+map_name_giver: map00
+npc_name_giver: bartholomew
+zone_name_receiver: provisioner
+map_name_receiver: map00
+npc_name_receiver: bartholomew
+quest_area_zone_name: provisioner
+quest_area_map_name: map00
+quest_area_npc: bartholomew
+quest_area_success_item: strong mint
+quest_area_number_of_success_items: 1
+quest_reward_item: None
+quest_reward_item_number: None
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False
