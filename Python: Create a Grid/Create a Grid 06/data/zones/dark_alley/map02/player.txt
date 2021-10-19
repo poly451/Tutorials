@@ -1,0 +1,2 @@
+tile: p0
+npc_position: left

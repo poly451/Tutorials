@@ -1,0 +1,20 @@
+index: 0
+quest_name: quest name 2021917234840
+quest_summary: this is a quest summary
+quest_display_text: this is the quest display text
+zone_name_giver: dark_alley
+map_name_giver: map03
+npc_name_giver: placeholder
+zone_name_receiver: dark_alley
+map_name_receiver: map03
+npc_name_receiver: placeholder
+quest_area_zone_name: dark_alley
+quest_area_map_name: map03
+quest_area_npc: placeholder
+quest_area_success_item: none
+quest_area_number_of_success_items: 0
+quest_reward_item: none
+quest_reward_item_number: 0
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

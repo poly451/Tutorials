@@ -1,0 +1,3 @@
+tile: n0
+npc_file: matilda.txt
+npc_position: up

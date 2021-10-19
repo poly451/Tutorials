@@ -1,0 +1,5 @@
+1: You wake up in a dark foul smelling alley. Fragmentary images flash through your mind. One is of a person who is richly dressed, walking off a boat, looking for someone. After passing through a narrow passage this person is attacked. The world fades to black. (PRESS <ESC> TO CONTINUE)
+
+2: Your head hurts. You reach up and, tentatively, feel the back of your skull. You feel a lump and, when you look at your fingers, they are smeared with blood. Your clothes would have fetched a fair amount of gold were they new, but they are ripped and dirty. (PRESS <ESC> TO CONTINUE)
+
+3: A dim light flickers at the end of the alley. Looking up, you see a carriage rattle by. “Only a few more footsteps,” you whisper to yourself. “You can do this.” (PRESS <ESC> TO CONTINUE)

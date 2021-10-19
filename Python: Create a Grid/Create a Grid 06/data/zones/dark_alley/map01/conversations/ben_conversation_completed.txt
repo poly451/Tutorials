@@ -1,0 +1,23 @@
+index: 0
+prompt: The lamplighter says, "Hello again."
+choice_1: You say, "Hi. What did you say about where I should go?"
+choice_2: You say, "Hello."
+choice_3: You nod.
+response_1: Go to The Fiery Cauldron in the town of Swindon. Ask for Lilly.
+response_2: The lamplighter looks behind you. "Best be getting on. It isn't safe to stay too long in the dark."
+response_3: The lamplighter nods back.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

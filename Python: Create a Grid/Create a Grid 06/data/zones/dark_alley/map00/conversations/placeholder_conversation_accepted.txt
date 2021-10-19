@@ -1,0 +1,23 @@
+index: 0
+prompt: This is the prompt.
+choice_1: choice 1
+choice_2: choice 2
+choice_3: choice 3
+response_1: response 1
+response_2: response 2
+response_3: response 3
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

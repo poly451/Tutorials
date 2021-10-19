@@ -1,0 +1,9 @@
+name: v1
+command: load_map
+image_filename: portal01.png
+data: zone_name: green_lawn; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Your skin tingles...
+comment: Portal to green_lawn

@@ -1,0 +1,20 @@
+index: 0
+quest_name: a hint
+quest_summary: The adventurer is given directions to a friendly place she can stay and perhaps discover who she really is.
+quest_display_text: none
+zone_name_giver: dark_alley
+map_name_giver: map01
+npc_name_giver: ben
+zone_name_receiver: dark_alley
+map_name_receiver: map01
+npc_name_receiver: ben
+quest_area_zone_name: dark_alley
+quest_area_map_name: map01
+quest_area_npc: garakin
+quest_area_success_item: small magnet
+quest_area_number_of_success_items: 1
+quest_reward_item: None
+quest_reward_item_number: None
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

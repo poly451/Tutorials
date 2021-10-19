@@ -1,0 +1,9 @@
+name: v0
+command: find_item
+image_filename: dead_person_pool_of_blood.png
+data: gold ring
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: You find a dead body. After searching it, you find a gold ring. You keep the ring.
+comment: The ring is placed in the avatar's inventory. Note: the data field contains the NAME of the inventory item.
