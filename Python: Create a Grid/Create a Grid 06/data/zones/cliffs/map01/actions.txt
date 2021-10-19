@@ -1,0 +1,26 @@
+name: a0
+command: load_map
+image_display: portal04.png
+data: zone_name: swindon; map_name: map00
+inventory_condition: none
+game_condition: none
+dialog_text: You enter the town of Swindon...
+comment: The player enters the town of swindon
+
+name: a1
+command: load_map
+image_display: building07
+data: zone_name: provisioner; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: You enter Alfred's Goods ...
+comment: Player enters Alfred's provisioning shop.
+
+name: a2
+command: find_item
+image_display: dull_rock01.png
+data: dull rock
+inventory_condition: none
+game_condition: none
+dialog_text: You discover a glowing rock. Perhaps there is somewhere nearby you could put it down...
+comment: Player picks up a glowing rock.
