@@ -1,0 +1,6 @@
+tile: m1
+npc_file: loriintr.txt
+npc_position: down
+on_contact: fight
+destination_point_x: none
+destination_point_y: none

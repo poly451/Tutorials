@@ -1,0 +1,6 @@
+name: t1
+command: load_map
+data: map02
+inventory_condition: any
+game_condition = none
+comment: Loads a map

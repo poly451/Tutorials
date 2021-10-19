@@ -1,0 +1,17 @@
+name: a0
+command: load_map
+image_display: wild strawberries
+data: zone_name: green_lawn; map_name: map01
+inventory_condition: any
+game_condition: none
+dialog_text: There is a low rumble like a heavy door opening. You hear a low growl.
+comment: release monster
+
+name: a4
+command: find_item
+image_display: wild strawberries
+data: red amulet
+inventory_condition: any
+game_condition: none
+dialog_text: You see a flash of something red hidden in the leaves of the plant. You brush them aside and find a
+comment: player finds an amulet

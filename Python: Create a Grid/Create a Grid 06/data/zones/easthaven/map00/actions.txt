@@ -1,0 +1,17 @@
+name: a0
+command: load_map
+image_display: building09
+data: zone_name: swindon_pub_stub; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: As you open the door a chill runs down your spine. Something isn't right ...
+comment: The player is warned that all is not right within the pub.
+
+name: a1
+command: load_map
+image_display: building07
+data: zone_name: provisioner; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: Would you like to enter the provisioner's shop?
+comment: player is asked if he or she wishes to enter the provisioner's shop.

@@ -1,0 +1,289 @@
+name: b0
+command: display_image
+image_filename: building01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: b1
+command: display_image
+image_filename: building11.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: b2
+command: display_image
+image_filename: building03.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: b3
+command: display_image
+image_filename: building16.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: b4
+command: display_image
+image_filename: building09.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v3
+command: display_image
+image_filename: tiles_brick01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v4
+command: display_image
+image_filename: tiles_grey01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v5
+command: display_image
+image_filename: path01_up_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v6
+command: display_image
+image_filename: path_up_down02.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v7
+command: display_image
+image_filename: path_narrow_up_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v8
+command: display_image
+image_filename: path_narrow_right_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v9
+command: display_image
+image_filename: path_narrow_crossroads.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w1
+command: display_image
+image_filename: path_elbow_up_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w2
+command: display_image
+image_filename: path_elbow_up_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an wimage.
+comment: Just an image.
+
+name: w3
+command: display_image
+image_filename: path_elbow_down_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w4
+command: display_image
+image_filename: path_elbow_down_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w5
+command: display_image
+image_filename: path_fork_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w6
+command: display_image
+image_filename: path_fork_up.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w7
+command: display_image
+image_filename: path_fork_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w8
+command: display_image
+image_filename: garden_structure01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w9
+command: display_image
+image_filename: garden01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x0
+command: load_map
+image_filename: portal06.png
+data: zone_name: apple_grove; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: zone_name: swindon_pub; map_name: map00; quest_name: a quest for apples
+dialog_text: Checking ...
+comment: If the player has accepted the indicated quest (a quest for apples) then they will be transported to the cliffs, map00.
+
+name: x1
+command: load_map
+image_filename: portal06.png
+data: zone_name: cliffs; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: quest_name: The Three Feathers
+dialog_text: Your skin tingles ...
+comment: If the player has accepted the indicated quest (The Three Feathers) then they will be transported to the_orchard, map00.
+
+name: x2
+command: load_map
+image_filename: bridge_sign.png
+data: zone_name: bridge; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: quest_name: buy a secret
+dialog_text: Your skin tingles ...
+comment: Just an image.
+
+name: x3
+command: display_image
+image_filename: garden02.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x4
+command: display_image
+image_filename: tree.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x5
+command: display_image
+image_filename: cows01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x6
+command: display_image
+image_filename: grain_field01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x6
+command: display_image
+image_filename: path_left_form.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.

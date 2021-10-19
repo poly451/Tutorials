@@ -1,0 +1,6 @@
+name: t1
+command: load_map
+data: zone_name: green_lawn; map_name: map01
+inventory_condition: any
+game_condition = none
+comment: Loads a map which spawns includes a monster

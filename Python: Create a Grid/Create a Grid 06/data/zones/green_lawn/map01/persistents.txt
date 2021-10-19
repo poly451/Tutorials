@@ -1,0 +1,79 @@
+name: v0
+command: display_image
+image_filename: pine_tree01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v1
+command: display_image
+image_filename: apple_tree_empty.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v2
+command: display_image
+image_filename: tree24.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v3
+command: display_image
+image_filename: tree13.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v4
+command: display_image
+image_filename: tree25.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v5
+command: display_image
+image_filename: bushes01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v6
+command: display_image
+image_filename: tree26.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v7
+command: display_image
+image_filename: tree27.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
