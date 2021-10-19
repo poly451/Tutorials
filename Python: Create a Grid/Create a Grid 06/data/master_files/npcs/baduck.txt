@@ -1,0 +1,14 @@
+x: 5
+y: 3
+name: Baduck
+species: zombie
+profession: unknown
+maximum_damage: 2
+max_hit_points: 8
+hit_points: 8
+chance_to_hit: 80
+experience: 0
+image: Abomination_2.png
+image_dead: Abomination_2_dead.png
+agro_level: agro
+model_name: skeleton

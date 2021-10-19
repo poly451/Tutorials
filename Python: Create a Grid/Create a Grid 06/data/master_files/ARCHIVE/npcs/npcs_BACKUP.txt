@@ -1,0 +1,20 @@
+x: 10
+y: 9
+name: Mark
+kind: merchant
+inventory_kind: normal
+gold: 10
+
+x: 7
+y: 7
+name: Laura
+kind: merchant
+inventory_kind: beginner
+gold: 1
+
+x: 10
+y: 7
+name: Nugbu
+kind: merchant
+inventory_kind: advanced
+gold: 20

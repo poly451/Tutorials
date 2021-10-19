@@ -1,0 +1,7 @@
+index: 001
+name: collect apples
+text: My patrons have been demanding apple cider! They're tired of beer. But ever since the deep forest creatures have come closer to town everything has been strange. Everyone is too scared to go into the apple orchard to pick the apples. Rumor has it that something DARK inhabits the grove now. I saw it's all rubbish. But, what say you? Will you enter the orchard and bring me six apples?
+gold_reward: 4
+item_reward: none
+text_on_acceptance: Excellent! I will be waiting for you to come back. Hopefully you will have better luck than the others...
+text_on_rejection: Pah! I should have known you wouldn't have the courage for it. Be gone!

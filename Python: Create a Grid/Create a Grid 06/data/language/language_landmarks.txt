@@ -1,0 +1,14 @@
+forest: silva
+river: flumen
+hill: collis
+valley: valles
+farm: cillam
+castle: castrum
+village: villa
+city: urbs
+ancient: antiqua
+tower: Minas
+water: aqua
+mystery: mysterium
+guard: Tirith
+plant: arbor

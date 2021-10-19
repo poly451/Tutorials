@@ -1,0 +1,6 @@
+kind: food; index: 3;
+kind: food; index: 4;
+kind: food; index: 5;
+kind: drink; index: 1;
+kind: weapon; index: 1;
+kind: weapon; index: 2;

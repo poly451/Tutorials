@@ -1,0 +1,2 @@
+kind: note
+image: note_charlel_introduction.png

@@ -1,0 +1,16 @@
+    x: 7
+y: 8
+name: Henry
+kind: human
+direction: DOWN
+max_hit_points: 20
+hit_points: 20
+chance_to_hit: 90
+experience: 0
+profession: Warrior
+gold: 20
+image_down: warrior03_down.png
+image_up: warrior03_up.png
+image_left: warrior03_left.png
+image_right: warrior03_right.png
+image_dead: skull_and_bones.png

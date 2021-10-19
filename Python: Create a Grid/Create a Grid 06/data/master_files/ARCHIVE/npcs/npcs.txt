@@ -1,0 +1,6 @@
+x: 7
+y: 7
+name: Laura
+kind: merchant
+inventory_kind: beginner
+gold: 1

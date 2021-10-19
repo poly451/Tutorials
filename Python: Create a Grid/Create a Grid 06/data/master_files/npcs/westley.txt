@@ -1,0 +1,15 @@
+name: westley
+function: mercenary
+species: human
+profession: mercenary
+max_hit_points: 30
+hit_points: 30
+agro_level: passive
+attack_distance:10
+maximum_damage: 2
+chance_to_hit: 90
+experience: 0
+gold: 20
+inventory_type: beginner
+is_monster: False
+model_name: shadowy01

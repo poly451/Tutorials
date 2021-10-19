@@ -1,0 +1,15 @@
+name: bertron
+function: bystander
+species: human
+profession: jeweler
+max_hit_points: 10
+hit_points: 10
+agro_level: passive
+attack_distance: 1
+maximum_damage: 1
+chance_to_hit: 60
+experience: 0
+gold: 5
+inventory_type: beginner
+is_monster: False
+model_name: blond_townsperson_facial_hair

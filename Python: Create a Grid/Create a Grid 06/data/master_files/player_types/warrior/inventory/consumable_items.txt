@@ -1,0 +1,9 @@
+index: 3
+item_kind: food
+species: jerky
+name: tough jerky
+cost: 2
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 1

@@ -1,0 +1,119 @@
+index: 0
+prompt: Hi! My name is Tyla. Welcome to Swindon. If you are looking for a job, I may have something for you.
+choice_1: You say, "Thanks, but not right now."
+choice_2: You say, "Tell me about the job."
+choice_3: You say, "Okay, but there better be a lot of gold in it for me."
+response_1: Tyla smiles and says, "As you wish. If you change your mind, you know where to find me."
+response_2: Tyla nods.
+response_3: Tyla narrows her eyes at you. "Perhaps I misjudged you."
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Tyla says, "I need three blue feathers in order to create a special healing potion."
+choice_1: You yawn, "Bored now. Bye."
+choice_2: You say, "Okay. Blue feathers. That doesn't sound difficult. Tell me more."
+choice_3: You say, "Feathers? Sorry, I'm allergic."
+response_1: Tyla scowls at you.
+response_2: Tyla smiles.
+response_3: Tyla says, "Oh no! I completely understand. Be well."
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 2
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Tyla says, "The feathers are rare. They come from birds that fly along the cliffs. It's dangerous work and the raccoons will attack you if you try to leave the town."
+choice_1: You say, "Well, okay. I'm not greedy, but ... how much are you willing to pay for a feather from one of these birds?"
+choice_2: You say, "Okay. That sounds interesting. But I'm new here, I'm not sure I would know where to go. Perhaps I'll come back later.."
+choice_3: You say, "Monkeys! Oh, no. I'm not tangling with those monkeys again. Get your feathers yourself."
+response_1: Tyla says, "Oh, of course! I will pay you well. 20 gold for three feathers."
+response_2: Tyla nods, "With pleasure!"
+response_3: Tyla nods, "Okay. I can't say I'm not disappointed, but I understand. Go in peace."
+todo_1: continue
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 3
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Tyla says, "To find the birds in question, just take the portal out of town and visit the cliffs. So, what do you say?"
+choice_1: You say, "Yes! I'll get your feathers for you."
+choice_2: You say, "Give me some time to think about it."
+choice_3: You say, "Sorry, but I'm not interested, those monkeys are scary."
+response_1: Tyla says, "Okay! You'll need these seeds. Place them on the ground and it will help you get a feather. Good luck!"
+response_2: Alfred nods, "Sure."
+response_3: Alfred frowns at you and turns away.
+todo_1: buy 1
+todo_2: end conversation
+todo_3: end conversation
+item_1: blue feather
+item_2: none
+item_3: none
+next_card_1: 4
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 4
+prompt: Tyla says, "Thank you. That is wonderful of you. Please hurry. The potion I need the feathers for is a healing potion, and my patient isn't doing too well. Speed is of the essence. Take the portal."
+choice_1: You say, "I will hurry."
+choice_2: You say, "So... No pressure. Thanks."
+choice_3: You nod."
+response_1: Tyla says, "May the Ancient One be with you."
+response_2: Tyla shrugs. "it is what it is."
+response_3: Tyla nods back.
+todo_1: accepted
+todo_2: accepted
+todo_3: accepted
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: true
+quest_accepted_2: true
+quest_accepted_3: true
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

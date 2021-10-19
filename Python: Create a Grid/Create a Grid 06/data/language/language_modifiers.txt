@@ -1,0 +1,14 @@
+west: ann
+east: ore
+south: mer
+north: set
+small: mini
+speedily: cito
+big: magnum
+great: magna
+inside: intus
+behind: post
+between: inter
+enclosed: inclusum
+ancient: antiqua
+divine: diven

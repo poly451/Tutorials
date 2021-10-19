@@ -1,0 +1,180 @@
+index: 1
+item_kind: food
+species: roast
+name: dry roast
+cost: 3
+hp: 4
+filename: roast01.png
+core_item: False
+units: 100
+
+index: 2
+item_kind: food
+species: bread
+name: dry bread
+cost: 2
+hp: 2
+filename: bread01.png
+core_item: False
+units: 100
+
+index: 3
+item_kind: food
+species: jerky
+name: tough jerky
+cost: 2
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 4
+item_kind: food
+species: lembas
+name: stale lembas
+cost: 4
+hp: 7
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 5
+item_kind: food
+species: stew
+name: soupy stew
+cost: 3
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 6
+item_kind: food
+species: soup
+name: stewy soup
+cost: 3
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 7
+item_kind: drink
+species: water
+name: bitter water
+cost: 1
+hp: 1
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 8
+item_kind: drink
+species: wine
+name: spoiled wine
+cost: 2
+hp: 3
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 9
+item_kind: food
+species: strawberries
+name: wild strawberries
+cost: 1
+hp: 0
+filename: placeholder.png
+core_item: False
+units: 100
+
+index: 10
+item_kind: drink
+species: potion
+name: special health
+cost: 0
+hp: 10
+filename: health_potion_special.png
+core_item: False
+units: 100
+
+index: 11
+item_kind: drink
+species: potion
+name: small health
+cost: 2
+hp: 10
+filename: health_potion.png
+core_item: False
+units: 100
+
+index: 12
+item_kind: drink
+species: potion
+name: small poison
+cost: 2
+hp: 10
+filename: poison_potion.png
+core_item: False
+units: 100
+
+item_kind: food
+species: apple
+name: red apple
+cost: 1
+hp: 1
+filename: apple01.png
+core_item: False
+units: 10
+index: 13
+
+item_kind: food
+species: potion
+name: small health
+cost: 1
+hp: 1
+filename: health_potion.png
+core_item: False
+units: 10
+index: 14
+
+item_kind: food
+species: blueberries
+name: wild blueberries
+cost: 1
+hp: 1
+filename: blueberries.png
+core_item: False
+units: 1
+index: 15
+
+item_kind: food
+species: candy
+name: strong mint
+cost: 1
+hp: 1
+filename: mint.png
+core_item: False
+units: 1
+index: 16
+
+item_kind: food
+species: beer
+name: weak beer
+cost: 1
+hp: 1
+filename: pint_of_beer.png
+core_item: False
+units: 1
+index: 17
+
+item_kind: drink
+species: potion
+name: health potion
+cost: 2
+hp: 10
+filename: health_potion.png
+core_item: False
+units: 1
+index: 18
+

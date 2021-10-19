@@ -1,0 +1,8 @@
+item_kind: drink
+species: potion
+name: health potion
+cost: 2
+hp: 10
+filename: health_potion.png
+core_item: False
+units: 1

@@ -1,0 +1,10 @@
+weapon_kind: note
+name: charlel introduction
+quality: 1
+cost: 0
+top_damage: 0
+minimum_damage: 0
+filename: note_charlel_introduction.png
+core_item: true
+units: 1
+range_of_effect: 0
