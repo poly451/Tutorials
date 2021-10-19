@@ -1,0 +1,44 @@
+index: 0
+prompt: Halt! You there! I don’t recognize you. State your business.
+choice_1: You say, "None of your business!"
+choice_2: A wave of anger washes through you but quickly dies when you notice the man’s hands are shaking. "I'm not sure," you say, "it's ... Well, it has been a rough day."
+choice_3: "Oh, fine! Just fine," you say.
+response_1: "Fine! Begone!!" the lamplighter says. He begins to mumble in a language that seems vaguely familiar. Moments later you find it difficult to breathe. Gasping, you fall to the floor, dead.; End Game
+response_2: You open your mouth to tell the man your name but your mind is blank. You do not know your own name! Childhood? Blank. Parents? Blank. Friends? Blank. Family? Blank. Now it is your turn to tremble. You explain your situation to the lamplighter.; Continue
+response_3: I detect falsehood. Begone!; End Conversation
+
+index: 1
+prompt: “Well …” he says and looks at you intently while thoughtfully massaging his chin. “Your clothes are dirty and torn but the material is of good quality--silk if I don’t mistake--and embroidered. Someone spent many hours creating that dress for you. And that right there …” He points to a crest embroidered into the silk over your heart. “If my eyes don’t fail me, that’s a crest of some kind. You might be the child of a rich merchant or perhaps even a noble. You should find out. They'll be looking for you.”
+choice_1: You scoff. "What would you know of such things?"
+choice_2: You feel numb and nod.
+choice_3: Get lost!
+response_1: The lamplighter says, "Perhaps I've made a mistake. Move along."; End Conversation
+response_2: The man looks at you intently, you feel as though he is making up his mind about something.; Continue
+response_3: The man gives you a cold look. He says something to you in an odd language, one you've heard before but you can't remember when or where. You feel your life slipping away.; End Game
+
+index: 2
+prompt: You expect the man to turn and go on about his business, lighting lamps, but he stands in front of you and regards you with an intensity that makes you uncomfortable. Finally, he asks, “Did the brigands get your money pouch?”
+choice_1: Right, now we come to it. That's what you were after all along. Of course.
+choice_2: I have coin. I'll give you a gold piece if you tell me something useful.
+choice_3: With a jolt you remember the silver coins that help you make your way through the world. Panicked, you put your hand over where you hide your pouch and, weak with relief, you feel its comforting shape. You let out a sigh.
+response_1: "Stupid child!" The lamplighter ends your conversation.; End Conversation
+response_2: "Coin is not what I seek." The lamplighter ends your conversation."; End Conversation
+response_3: "You have nothing to fear from me." The lamplighter tells you, his eyes gentle.; Continue
+
+index: 3
+prompt: “Yes. Yes. It’s still there.” A moment later you become suspicious. Why did he want to know? Did he want you to betray its location? Seeming to read your thoughts the man backs up and holds up his hands in a gesture of goodwill.
+choice_1: You say, "Sorry, I was nervous. This money is all I have."
+choice_2: You kick him and run away.
+choice_3: You turn and try to run away.
+response_1: “Easy now. I’m not going to hurt you. It looks like someone else did that already. I simply wondered because Lilly -- she owns the biggest pub in town -- likes coin. If you give her enough she could help you find answers to some of your questions”. As he says this he raises a gnarled, arthritic finger to point at the crest embroidered on your chest.; Continue
+response_2: The lamplighter growls at you, pulls out a dagger with an engraved silver dagger and throws it at you. It pierces you through the heart. You die.; End Game
+response_3: The lamplighter shrugs and turns away.; End Conversation
+
+index: 4
+prompt: The lamplighter says, “It’s not good you being out here. It’s almost full dark. Go to Lily’s pub, tell her that Old Ben sent you. For coin she’ll give you a room, a hot meal and make sure you’re patched up.” He nods at you and makes gentle shooing gestures with his hands as though you are a small child he is trying to herd.
+choice_1: You say, "Yes. Okay. Thank you, I do very much need a place to sleep."
+choice_2: You say, "Thank you, but I am going to try and make it into the next town. I am sure other innkeppers could be persuaded to take my money."
+choice_3: You huff and toss your hair and say, "I'll go where I like."
+response_1: “You go now. Go to The Mad Hatter, let Little Lilly fix you up.” Shock is settling in and you nod, numb.; Continue
+response_2: The lamplighter shrugs and says, "Sure, do what you like."; End Conversation
+response_3: The lamplighter scowls at you. "Suit yourself," he says.; End Conversation

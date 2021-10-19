@@ -1,0 +1,4 @@
+kind_of_object: persistent
+name_of_object: e1
+image01: table_and_sword01.png
+image02: table01.png

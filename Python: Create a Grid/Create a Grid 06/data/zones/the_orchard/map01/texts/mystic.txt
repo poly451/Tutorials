@@ -1,0 +1,17 @@
+index: 0
+prompt: The Mystic says, "Hello. May Morduck, the Great Dragon, be with you."
+choice_1: You say, "Okay. Thanks."
+choice_2: You nod.
+choice_3: You roll your eyes.
+response_1: The figure says, "You are welcome, friend."
+response_2: The figure nods back.
+response_3: The figure shrugs and looks unconcerned. You have been dismissed.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none

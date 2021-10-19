@@ -1,0 +1,6 @@
+name: t3
+command: load_map
+data: data: zone_name: the_orchard; map_name: map02
+inventory_condition: ancient sword
+game_condition: none
+comment: When the player has the ancient sword in their backpack, the portal will appear.

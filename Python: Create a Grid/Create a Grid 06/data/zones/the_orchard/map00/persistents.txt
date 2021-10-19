@@ -1,0 +1,19 @@
+name: e1
+command: find_item
+image_filename: sword_on_table.png
+data: ancient sword
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: There is an ancient sword on the table. You put it in your backpack.
+comment: The player finds an ancient sword on a table.
+
+name: v1
+command: text
+image_filename: red_bottle_on_table.png
+data: zone_name: text1
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Nothing to see here, it's just a table.
+comment: Player finds out that a table is, occasionally, just a table.

@@ -1,0 +1,95 @@
+index: 0
+prompt: The Mystic says, "Hello. Even though you will ignore me, I must warn you not to enter this room. If you do, it is very likely you will die."
+choice_1: You say, "I don't care!"
+choice_2: You say, "Okay. Good to know. Do you have any advice for me?"
+choice_3: You say, "Never mind."
+response_1: The figure says, "Of course not. I would wish you good luck, but what would be the point? Goodbye."
+response_2: The figure looks you up and down. "Perhaps there is some hope for you."
+response_3: The figure shrugs and looks unconcerned. You have been dismissed.
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: I have two items. You may choose one of them. The first is a potion that will, if drunk, restore 10 health points. The other item is a large red ruby that is worth a king's ransom. Which would you like me to give you?
+choice_1: After some consideration you choose the healing potion.
+choice_2: After some consideration you choose the ruby.
+choice_3: Neither.
+response_1: The figure raises his eyebrows as though surprised. "I may have misjudged you."
+response_2: The figure smirks. "Of course. So predictable." You have been dismissed.
+response_3: The figure gives you a cold look and nods. You have been dismissed.
+todo_1: buy 1
+todo_2: buy 1
+todo_3: end conversation
+item_1: health potion
+item_2: special ruby
+item_3: none
+next_card_1: 2
+next_card_2: 3
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: May the gods go with you.
+choice_1: You nod to the figure.
+choice_2: You say, "I don't believe in the gods, but thank you."
+choice_3: You smirk and say, "Yeah, whatever."
+response_1: The figure gestures toward the entrance.
+response_2: The figure is still for a moment and then nods. "To each their own."
+response_3: The figure gives you a cold look. You have been dismissed.
+todo_1: load next map
+todo_2: load next map
+todo_3: completed
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Well, go on then.
+choice_1: Puzzled by his attitude, you nod to the figure.
+choice_2: You say, sarcasm dripping off your words, "Thank you for all your help."
+choice_3: You smirk and say, "Nice job, standing outside of an empty room all day. Which god did you anger?"
+response_1: The figure gestures toward the entrance.
+response_2: The figure is still for a moment and then says, "May you get everything you deserve."
+response_3: The figure flinches. "That's a long story, and one I have no inclination to recount. Especially to you."
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

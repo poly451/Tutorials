@@ -1,0 +1,107 @@
+index: 0
+prompt: Hi! Welcome to Swindon. Would you like to buy something or sell something?
+choice_1: I would like to buy something.
+choice_2: I would like to sell something.
+choice_3: Neither, I've changed my mind.
+response_1: Okay! Here are the goods I have for sale...
+response_2: Okay. Show me what you have.
+response_3: Oh...
+todo_1: none
+todo_2: none
+todo_3: none
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 3
+next_card_3: 5
+
+index: 1
+prompt: Would you like to buy something or sell something?
+choice_1: I would like to buy something.
+choice_2: I would like to sell something.
+choice_3: Neither, I've changed my mind.
+response_1: Okay! Here are the goods I have for sale...
+response_2: Okay. Show me what you have.
+response_3: Okay then. Have a good day.
+todo_1: none
+todo_2: none
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 3
+next_card_3: none
+
+index: 2
+prompt: I am currently selling bitter water and loaves of dry bread. Would you like any?
+choice_1: Sure, I'll buy some bitter water.
+choice_2: Okay, give me a loaf of dry bread.
+choice_3: Nothing today, I'm fine.
+response_1: Good choice, here's your water
+response_2: Okay. Here's your loaf of bread
+response_3: Thanks for dropping by, have a good day!
+todo_1: buy bitter water
+todo_2: buy dry bread
+todo_3: end conversation
+item_1: bitter water
+item_2: dry bread
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: none
+
+index: 3
+prompt: I am buying wild strawberries and rusty swords.
+choice_1: Great! I have some wild strawberries to sell.
+choice_2: That's good. I have a rusty sword to sell.
+choice_3: Okay, I'll keep that in mind. Have a good day.
+response_1: Thank you! These are very high quality. Have a good day.
+response_2: Yes, okay. I'll buy that.
+response_3: Yes, you too!
+todo_1: sell wild strawberries
+todo_2: sell rusty sword
+todo_3: end conversation
+item_1: wild strawberries
+item_2: rusty sword
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: none
+
+index: 4
+prompt: Thanks for your business!
+choice_1: Would you like to buy something?
+choice_2: Would you like to sell something?
+choice_3: Nothing else, I'll be leaving now.
+response_1: Okay! There you go...
+response_2: Okay. Let me see, one second...
+response_3: Okay! Thanks for shopping, I appreciate your business. Have a good day!
+todo_1: none
+todo_2: none
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: 2
+next_card_3: none
+
+index: 5
+prompt: Thanks for coming by and taking a look. Perhaps next time you'll buy or sell something...
+choice_1: Sure! You never know.
+choice_2: Not with an attitude like that I won't! You won't see ME again!
+choice_3: Bye.
+response_1: The merchant gives you a cold, appraising smile.
+response_2: The merchant gives you a cold stare, as though she is making careful note of what you look like.
+response_3: The merchant absently nods at you.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none

@@ -1,0 +1,17 @@
+name: a0
+command: load_map
+image_display: portal01
+data: zone_name: swindon; map_name: map00
+inventory_condition: silver cross
+game_condition: none
+dialog_text: Your skin tingles...
+comment: Player tries to portal out of the pub
+
+name: a1
+command: find_item
+image_display: dead bartender
+data: silver cross
+inventory_condition: any
+game_condition: none
+dialog_text: You find a silver cross.
+comment: Player finds a silver cross on the bartender's body.

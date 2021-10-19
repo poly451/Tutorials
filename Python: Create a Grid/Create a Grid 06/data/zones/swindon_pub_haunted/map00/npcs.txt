@@ -1,0 +1,31 @@
+tile: n0
+npc_file: lilly.txt
+npc_position: up
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
+
+tile: n1
+npc_file: robrin.txt
+npc_position: down
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
+
+tile: n2
+npc_file: skeleton_plain.txt
+npc_position: down
+on_contact: fight
+destination_point_x: none
+destination_point_y: none
+agro_level: agro
+
+tile: n7
+npc_file: aiza.txt
+npc_position: up
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive

@@ -1,0 +1,8 @@
+index: 0
+condition: conversation_with_mystic_completed
+value: True
+
+index: 1
+condition: conversation_with_maria_completed
+value: True
+

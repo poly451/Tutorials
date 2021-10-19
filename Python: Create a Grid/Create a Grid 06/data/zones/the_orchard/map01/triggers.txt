@@ -1,0 +1,27 @@
+name: t0
+command: fire_attack
+data: 5
+inventory_condition: none
+game_condition: none
+comment: Player is being hurt with fire. In this case, he is walking over a tile composed of lava.
+
+name: t1
+command: change_npc_agro
+data: skeleton plain
+inventory_condition: none
+game_condition: none
+comment: turn the indicated npc agro.
+
+name: t2
+command: fire_attack_big
+data: 10
+inventory_condition: none
+game_condition: none
+comment: Player is being hurt with fire. In this case, he is walking over a tile composed of lava.
+
+name: t3
+command: load_map
+data: data: zone_name: the_orchard; map_name: map02
+inventory_condition: ancient sword
+game_condition: none
+comment: When the player has the ancient sword in their backpack, the portal will appear.

@@ -1,0 +1,35 @@
+index: 0
+prompt: Would you like healing?
+choice_1: You say, "No, I'm standing here dripping blood because it's fun."
+choice_2: You say, "What do you think?"
+choice_3: You say, "Yes."
+response_1: The healer gives you a cold look and hands you a vial. Inside is a slimy green liquid.
+response_2: The healer shakes her head and says, "Youth is wasted..."
+response_3: The healer says, "So be it."
+todo_1: end conversation
+todo_2: end conversation
+todo_3: continue
+item_1: small poison
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: 1
+
+index: 1
+prompt: The healer says, "May the Great Mother bless you and keep you."
+choice_1: You smirk at her blessing and say, "Okay then. Thanks."
+choice_2: You say, "Thanks."
+choice_3: You nod at her, bow, and touch the top of your head.
+response_1: The healer scowls at you.
+response_2: The healer nods.
+response_3: The healer makes the same gesture back at you.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: completed
+item_1: none
+item_2: none
+item_3: special health
+next_card_1: none
+next_card_2: none
+next_card_3: none

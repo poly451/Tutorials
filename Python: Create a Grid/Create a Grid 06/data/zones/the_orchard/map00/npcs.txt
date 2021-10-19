@@ -1,0 +1,15 @@
+tile: m0
+npc_file: mystic.txt
+npc_position: left
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
+
+tile: m1
+npc_file: maria.txt
+npc_position: left
+on_contact: talk
+destination_point_x: none
+destination_point_y: none
+agro_level: passive
