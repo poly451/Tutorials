@@ -1,0 +1,23 @@
+index: 0
+prompt: Hi again. How are you doing on your quest?
+choice_1: You say, "Right. Quest. Something about apples? I'm totally on it."
+choice_2: You say, "All done! Here are your apples."
+choice_3: You say, "Umm, what was it you wanted?"
+response_1: Aiza scowls.
+response_2: Aiza says, "Wonderful! Thank you. Here is your gold."
+response_3: Aiza scowls. "You said you would give me apples for my pie. The trees grow in the orchard beyond the portal."
+todo_1: end conversation
+todo_2: completed
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

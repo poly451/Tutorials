@@ -1,0 +1,23 @@
+index: 0
+prompt: Hi! What can I do for you?
+choice_1: You say, "Do you have a job for me?"
+choice_2: You say, "You're welcome."
+choice_3: You nod.
+response_1: lilly says, "Not right now. Check back later."
+response_2: lilly nods.
+response_3: lilly smiles at you and waves.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

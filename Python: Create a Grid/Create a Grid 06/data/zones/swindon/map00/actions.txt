@@ -1,0 +1,26 @@
+name: a0
+command: load_map
+image_display: building09
+data: zone_name: swindon_pub; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: You enter The Cleansing Fire Pub ...
+comment: The player enters the pub.
+
+name: a1
+command: load_map
+image_display: building07
+data: zone_name: provisioner; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: You enter Alfred's Goods ...
+comment: Player enters the provisioner's shop.
+
+name: a2
+command: load_map
+image_display: building04
+data: zone_name: jeweler; map_name: map00
+inventory_condition: any
+game_condition: none
+dialog_text: You enter Bertron the Jeweler's shop ...
+comment: Player enters the jeweler's shop.

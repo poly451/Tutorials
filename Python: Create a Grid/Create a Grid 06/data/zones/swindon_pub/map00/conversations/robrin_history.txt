@@ -1,0 +1,20 @@
+index: 0
+quest_name: banter with robrin
+quest_summary: Player is given the opportunity to sell their excess fruit.
+quest_display_text: none
+zone_name_giver: swindon_pub
+map_name_giver: map00
+npc_name_giver: robrin
+zone_name_receiver: swindon_pub
+map_name_receiver: map00
+npc_name_receiver: robrin
+quest_area_zone_name: swindon_pub
+quest_area_map_name: map00
+quest_area_npc: None
+quest_area_success_item: None
+quest_area_number_of_success_items: 0
+quest_reward_item: None
+quest_reward_item_number: None
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

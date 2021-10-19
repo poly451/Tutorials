@@ -1,0 +1,71 @@
+index: 0
+prompt: Hi! Welcome to Swindon. My name's Aiza. If you need any supplies, go to Alfred's Goods across the way. If you're hungry or want a place to stay, you're in the right place. You should talk to Lilly. She isn't here right now, so check back soon.
+choice_1: You say, "Thanks for the welcome and the information!" and go on your way.
+choice_2: You nod and say, "Thanks. But I need money. Do you know where I could get some work?"
+choice_3: You say, "Good to know," and move on.
+response_1: Aiza says, "Be well. May the Ancient One bless you and keep you."
+response_2: Aiza looks at you appraisingly. "Possibly."
+response_3: Aiza nods, makes a sign in the air, and says, "May the Great God bless you and keep you. May your Fire never die."
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Aiza says, "I don't know if you've noticed, but the town is being tormented by a nursery of raccoons. They've been looting gardens and attacking people, driving away customers."
+choice_1: You massage your bruised arm. "Yeah, I noticed."
+choice_2: You say, "I must have missed that."
+choice_3: You say, "I'm bored. Goodbye."
+response_1: Aiza says, "Don't worry, the bruises go away...eventually."
+response_2: Aiza looks surprised. "Really!? Oh, by the look of you I thought you'd been attacked. My apologies."
+response_3: Aiza nods at you.
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 2
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Aiza says, "I want to bake an apple pie, but haven't been able to leave town and visit the apple orchard south of here because every time I venture outside a raccoon attacks me! Would you be willing to visit the orchard and bring me three apples? I'll pay you 15 gold."
+choice_1: You scratch your chin. "Make it 20 gold and you have a deal."
+choice_2: You say, "15 gold! Sure. Consider it done."
+choice_3: You say, "Monkeys hold grudges. No way. I'm out. Get your apples yourself."
+response_1: Aiza narrows her eyes at you. "I said 15 gold." She pauses for a moment. "I've changed my mind. Good day."
+response_2: Aiza says, "Excellent! I'm so glad you've agreed. There is a portal outside the town that will take you to the orchard. For what it's worth, I hope you don't die."
+response_3: Aiza rolls her eyes. "Well, if you change your mind, you know where to find me."
+todo_1: end conversation
+todo_2: accepted
+todo_3: end conversation
+item_1: None
+item_2: None
+item_3: None
+next_card_1: None
+next_card_2: None
+next_card_3: None
+quest_accepted_1: False
+quest_accepted_2: True
+quest_accepted_3: False
+quest_reward_1: none
+quest_reward_2: 15 gold
+quest_reward_3: none

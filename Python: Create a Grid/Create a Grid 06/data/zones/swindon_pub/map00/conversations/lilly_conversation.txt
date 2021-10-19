@@ -1,0 +1,47 @@
+index: 0
+prompt: Welcome to The Mad Hatter! My name is Lilly. Make yourself at home.
+choice_1: You say, "I'd like to go shopping, can you recommend a place?"
+choice_2: You say, "I'm interested in finding work. Do you think anyone in town would have a job for me?"
+choice_3: You say, "Thanks. Good to know."
+response_1: Lilly says, "If you want to buy or sell something you can stop by Alfred's Goods, it's the shop across the way. By the way, if you find anything interesting on your travels, please do bring it to me."
+response_2: Lilly says, "Aiza might have a job for you, she's right over there by the door. Also, Tyla, the healer, might need something. You can find her in Alfred's Goods, the shop across the way. By the way, if you find anything interesting on your travels, please do bring it to me."
+response_3: Lilly says, "It is wonderful to have a new customer. Business has been bad what with the raccoons attacking everyone."
+todo_1: continue
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: 1
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: May I help you with something else?
+choice_1: You say, "I have a gold ring here. Do you have any idea if anyone around here would could examine it and tell me anything about it?"
+choice_2: You say, "No, nothing else, thanks."
+choice_3: You say, "Nice place you have here! Could I get some food or drink?"
+response_1: Lilly examines the ring and then shakes his head. "I don't know much about jewelry. You could try bringing it to Berton. He's a jeweler. You can find his shop in the southeast corner of town."
+response_2: Lilly gives you a friendly nod. "Remember, if you find anything curious or different, show it to me. I may be able to tell you something about it."
+response_3: Lilly smiles. "We have the best food in Swindon! Our kitchen will be open in a little while."
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

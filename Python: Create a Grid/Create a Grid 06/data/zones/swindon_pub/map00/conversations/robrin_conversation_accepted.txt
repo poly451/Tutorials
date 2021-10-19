@@ -1,0 +1,23 @@
+index: 0
+prompt: Robrin says, "Hi again. Have you been finding everything you need?"
+choice_1: You say, "More or less. Thanks."
+choice_2: You nod.
+choice_3: You nod.
+response_1: Robrin nods.
+response_2: Robrin nods.
+response_3: Robrin nods.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

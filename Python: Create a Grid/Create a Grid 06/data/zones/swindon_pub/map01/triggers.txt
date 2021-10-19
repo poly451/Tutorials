@@ -1,0 +1,6 @@
+name: t0
+command: change_npc_agro
+data: skeleton plain
+inventory_condition: none
+game_condition: none
+comment: turn the indicated npc agro.

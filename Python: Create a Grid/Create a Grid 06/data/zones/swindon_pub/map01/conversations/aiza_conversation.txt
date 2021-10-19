@@ -1,0 +1,71 @@
+index: 0
+prompt: Aiza says, "Darn raccoons! There are driving all our customers away. The jeweler was the first to close and then Alfred's Goods locked its doors. We'll have to do the same, soon.
+choice_1: You say, "That's awful! Is there anything I can do to help?"
+choice_2: You nod and say, "Yes, I've noticed. Can anything be done to ... discourage raccoons from coming into town?"
+choice_3: You say, "That's terrible. Well, see you later."
+response_1: Aiza glares at you, "Yes! Of course! I would have thought that was obvious. Find a way to stop the darn things coming to town!!!"
+response_2: Aiza glares at you, "Yes! Of course! I would have thought that was obvious. Find a way to stop the darn things coming to town!!!"
+response_3: Aiza glares at you.
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Aiza says, "The raccoons never bothered us before. Something has obviously changed. Find out what changed AND CHANGE IT BACK!!!!"
+choice_1: You say, "Ah. Okay. When you put it like that it seems pretty simple."
+choice_2: You say, "I'm new to these parts, is there anyone who might be able to give me an idea of what changed?"
+choice_3: You say, "You don't have to yell!"
+response_1: Aiza says, "That's because it IS simple!" She visibly tries to calm down. "I'm sorry, it's just that I'm SO TIRED of being attacked. Why don't you talk to the owner of The Salty Spoon in Easthaven? That's where the raccoons are from, he might know something."
+response_2: Aiza says, "Why don't you talk to the owner of The Salty Spoon in Easthaven? Easthaven is where the raccoons are from. His name is Artifix. He seems to know EVERYTHING, so he might know something about what drove the raccoons away."
+response_3: Aiza says, "Really! REALLY!! Oh well, maybe not. Just do us all a favor and go talk to Artifix over at The Salty Spoon in Easthaven. He's the own and seems to know just about everything.
+todo_1: continue
+todo_2: continue
+todo_3: continue
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 2
+next_card_3: 2
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Asia says, "Sorry for losing my temper. But I'm on my last nerve. Something needs to be done. If you fix this problem, you will be amply rewarded."
+choice_1: You scratch your chin. "Okay. Normally I'd try and haggle but I guess this is an emergency. I'll do what I can."
+choice_2: You say, "Okay. I'll do what I can."
+choice_3: You say, "No. Sorry. I'm not interested. I have worries of my own."
+response_1: Azia smiles. "Thank you. I didn't think you would come through for us. I'm sorry for underestimating you."
+response_2: Azia smiles. "Thank you. I didn't think you would come through for us. I'm sorry for underestimating you."
+response_3: Aiza rolls her eyes. "Of course. Well, if you change your mind, you know where to find me."
+todo_1: accepted
+todo_2: accepted
+todo_3: end conversation
+item_1: None
+item_2: None
+item_3: None
+next_card_1: None
+next_card_2: None
+next_card_3: None
+quest_accepted_1: True
+quest_accepted_2: True
+quest_accepted_3: False
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

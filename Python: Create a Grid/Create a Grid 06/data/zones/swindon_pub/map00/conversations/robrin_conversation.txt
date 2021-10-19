@@ -1,0 +1,47 @@
+index: 0
+prompt: Hi! My name is Robrin. If you have any fruit to spare, I'll gladly buy it off you.
+choice_1: You say, "I have a few apples I doubt I'll use, if you want them they're yours."
+choice_2: You say, "I have some blueberries I doubt I'll eat, I'll sell them to you."
+choice_3: You say, "Thanks. I'll keep that in mind."
+response_1: Robrin says, "Wonderful!"
+response_2: Robrin says, "Hey! Those look like birds got to them. Oh well, I suppose that doesn't matter."
+response_3: Robrin nods.
+todo_1: sell all
+todo_2: sell all
+todo_3: end conversation
+item_1: red apple
+item_2: wild blueberries
+item_3: none
+next_card_1: 1
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Robrin says, "If you come across any more fruit, I'll buy it."
+choice_1: You nod.
+choice_2: You say, "Thanks."
+choice_3: You say, "Good to know."
+response_1: Robrin hums, sorting through newly acquired goods.
+response_2: Robrin nods.
+response_3: Robrin says, "Take care," come back anytime.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

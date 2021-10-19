@@ -1,0 +1,209 @@
+name: v1
+command: find_item
+image_filename: sword_on_table.png
+data: ancient sword
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: There is an ancient sword on the table. You put it in your backpack.
+comment: The player finds an ancient sword on a table.
+
+name: v2
+command: text
+image_filename: red_bottle_on_table.png
+data: zone_name: text1
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Nothing to see here, it's just a table.
+comment: Player finds out that a table is, occasionally, just a table.
+
+name: v3
+command: display_image
+image_filename: tiles_brick01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v4
+command: display_image
+image_filename: tiles_grey01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v5
+command: display_image
+image_filename: path01_up_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v6
+command: display_image
+image_filename: path_up_down02.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v7
+command: display_image
+image_filename: path_narrow_up_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v8
+command: display_image
+image_filename: path_narrow_right_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: v9
+command: display_image
+image_filename: path_narrow_crossroads.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w1
+command: display_image
+image_filename: path_elbow_up_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w2
+command: display_image
+image_filename: path_elbow_up_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an wimage.
+comment: Just an image.
+
+name: w3
+command: display_image
+image_filename: path_elbow_down_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w4
+command: display_image
+image_filename: path_elbow_down_left.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w5
+command: display_image
+image_filename: path_fork_down.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w6
+command: display_image
+image_filename: path_fork_up.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w7
+command: display_image
+image_filename: path_fork_right.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w8
+command: display_image
+image_filename: garden_structure01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: w9
+command: display_image
+image_filename: garden01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Just displaying an image.
+comment: Just an image.
+
+name: x1
+command: load_map
+image_filename: portal01.png
+data: zone_name: apple_grove; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: zone_name: swindon_pub; map_name: map00; quest_name: a quest for apples
+dialog_text: Checking ...
+comment: If the player has accepted the indicated quest (a quest for apples) then they will be transported to the cliffs, map00.
+
+name: x0
+command: load_map
+image_filename: portal06.png
+data: zone_name: swindon; map_name: map01
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Thank you for playing my game! The next zone has not been created yet. Please subscribe to my YouTube channel so you will be notified when I do. In the next version of this program you will be able to explore Easthaven and begin the main quest line.
+comment: The next zone has not been developed.
+
+name: x2
+command: load_map
+image_filename: bridge_sign.png
+data: zone_name: bridge; map_name: map00
+inventory_condition: none
+game_condition: none
+quest_accepted: quest_name: buy a secret
+dialog_text: Your skin tingles ...
+comment: Just an image.

@@ -1,0 +1,119 @@
+index: 0
+prompt: You there! I haven't seen you in a while.
+choice_1: You show Lilly the IOU you found on Westley's corpse. You ask, "Did you ask someone to kill Westley before he could tell me who I am?"
+choice_2: You say, "Someone tried to kill me. This note was on his body." You show Lilly the note. "Do you have any idea who may have asked him to kill Westley?"
+choice_3: You say, "Yes, I'm trying to figure out why someone doesn't want me to recover my memories."
+response_1: Lilly says, "Oh, child, no! Please believe me, I would never do that. Someone who was staying here--he said his name was Daith--came here the other day and did some work for me. I was low on gold so I gave him an IOU. I thought he would use it to order some food."
+response_2: Lilly says, "That sign... It reminds me of something, but I'm not sure. My friend Charlel, she is a Mother in The Congregation of the Ancient Ones, may have more information about the man--he said his name was Daith. She lives and works at the church in Easthaven."
+response_3: Lilly says, "There is a fountain of remembrance in Easthaven. A friend of mine looks after it. I'll write you a letter of introduction."
+todo_1: continue
+todo_2: continue
+todo_3: take item
+item_1: none
+item_2: none
+item_3: charlel introduction
+next_card_1: 2
+next_card_2: 3
+next_card_3: 6
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Lilly appears to be sincere.
+choice_1: You say, "Sorry, it feels as though I've been marked. I need to get away from here as quickly as I can."
+choice_2: You say, "Okay. I believe you. But...do you have any idea who might be behind this?"
+choice_3: You say, "I need to get away from here. Thanks for trying to help."
+response_1: Lilly says, "I know the cleric in Easthaven. She has ... connections. I trust her. You should talk to her. A warning, though. She may need to get to know you better before before she'll trust you."
+response_2: Lilly says, "No, honestly, I don't. But I DO know someone who might. Go and see the cleric in Easthaven. Her name is Charlel. We were childhood friends and have kept in contact. She is a good person, but slow to trust. Go to her and prove yourself."
+response_3: Lilly nods. May the Ancient Ones be with you and guide you.
+todo_1: take item
+todo_2: take item
+todo_3: end conversation
+item_1: charlel introduction
+item_2: charlel introduction
+item_3: none
+next_card_1: 6
+next_card_2: 3
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: Lilly hands you back the note you found.
+choice_1: You say, "Thank you. Well, I guess I know where my next stop is."
+choice_2: You say, "Thanks, I appreciate the information. But, why? Why are you endangering yourself?"
+choice_3: You say, "Why are you helping me?"
+response_1: Lilly says, "Tell Charlel I sent you."
+response_2: Lilly says, "This is a strange matter. I think it might connect to ... other interests of mine. Here, take this letter of introduction." Lilly hands you a piece of carefully folded paper.
+response_3: Lilly pauses, then she says, "I have ... reasons ... to be interested. I hope that in helping you I am helping both myself and my town."
+todo_1: end conversation
+todo_2: take item
+todo_3: end conversation
+item_1: none
+item_2: charlel introduction
+item_3: none
+next_card_1: none
+next_card_2: 6
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 6
+prompt: Lilly says, "May the Ancient Ones guide you and keep you."
+choice_1: You nod.
+choice_2: You nod.
+choice_3: You nod.
+response_1: Lilly bows her head in deep thought.
+response_2: Lilly bows her head in deep thought.
+response_3: Lilly bows her head in deep thought.
+todo_1: accepted
+todo_2: accepted
+todo_3: accepted
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 7
+prompt: Lilly says, "By the way, I found this note in Daith's room."
+choice_1: You take the note.
+choice_2: You say, "Thank you," and take the note.
+choice_3: You say, "Thank you."
+response_1: Lilly nods.
+response_2: Lilly nods.
+response_3: Lilly nods.
+todo_1: take item
+todo_2: take item
+todo_3: take item
+item_1: mercenary note
+item_2: mercenary note
+item_3: mercenary note
+next_card_1: 6
+next_card_2: 6
+next_card_3: 6
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
