@@ -1,0 +1,23 @@
+index: 0
+prompt: Westley is still dead.
+choice_1: You grimace and walk away.
+choice_2: You search Westley.
+choice_3: You search the area around Westley.
+response_1: You hear soft, menacing, laughter.
+response_2: You find nothing.
+response_3: You barely have time to turn around when you hear the loud snap of a branch.
+todo_1: load next map
+todo_2: load next map
+todo_3: load next map
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: lilly iou
+quest_reward_2: lilly iou
+quest_reward_3: lilly iou

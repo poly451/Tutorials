@@ -1,0 +1,7 @@
+tile: n1
+npc_file: westley.txt
+npc_position: up
+on_contact: talk
+destination_point_x: 10
+destination_point_y: 10
+agro_level: agro

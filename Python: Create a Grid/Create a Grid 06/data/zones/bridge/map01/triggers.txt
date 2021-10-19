@@ -1,0 +1,6 @@
+name: t1
+command: load_map
+data: zone_name: bridge; map_name: map01
+inventory_condition: none
+game_condition: none
+comment: Loads a map

@@ -1,0 +1,20 @@
+index: 0
+quest_name: buy a secret
+quest_summary: Westley offers to sell the player information about who they really are.
+quest_display_text: none
+zone_name_giver: bridge
+map_name_giver: map00
+npc_name_giver: westley
+zone_name_receiver: bridge
+map_name_receiver: map00
+npc_name_receiver: westley
+quest_area_zone_name: bridge
+quest_area_map_name: map00
+quest_area_npc: westley
+quest_area_success_item: 100 gold
+quest_area_number_of_success_items: 1
+quest_reward_item: crumpled note
+quest_reward_item_number: 1
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

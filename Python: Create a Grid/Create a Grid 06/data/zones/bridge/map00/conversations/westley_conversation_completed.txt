@@ -1,0 +1,23 @@
+index: 0
+prompt: Westley grunts at you.
+choice_1: You nod.
+choice_2: You scowl at Westley.
+choice_3: You say, "Do you have any more information for me?"
+response_1: Westley walks away.
+response_2: Westley walks away.
+response_3: Westley scowls at you.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

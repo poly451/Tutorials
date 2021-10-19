@@ -1,0 +1,23 @@
+index: 0
+prompt: Westley is still dead.
+choice_1: You grimace and walk away.
+choice_2: You search Westley.
+choice_3: You search the area around Westley.
+response_1: Nothing happens.
+response_2: You find nothing.
+response_3: You find nothing.
+todo_1: completed
+todo_2: completed
+todo_3: completed
+item_1: lilly iou
+item_2: lilly iou
+item_3: lilly iou
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: lilly iou
+quest_reward_2: lilly iou
+quest_reward_3: lilly iou

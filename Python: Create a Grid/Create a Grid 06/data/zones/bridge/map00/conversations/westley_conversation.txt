@@ -1,0 +1,71 @@
+index: 0
+prompt: I want your money. 100 gold to be precise.
+choice_1: You say, "I hope you're okay with disappointment."
+choice_2: You say, "I don't have 100 gold but I'll play along. What would you give me in return?"
+choice_3: You say, "Good to know," and move on.
+response_1: The figure scowls at you. "Begone then, but know that those you love will pay for your carelessness."
+response_2: The figure says, "People call me Westley. I hear you have lost your memory. I can help you out, tell you why you're here. Trust me, you'll want to know. Those you love depend on you."
+response_3: The figure growls at you and turns away.
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: Westley says, "Before you say anything, know that I can prove I am who I am." Westley produces a sealed note. The seal has been stamped with a crest that seems familiar to you.
+choice_1: You say, "Where did you get that?"
+choice_2: You say, "That seal... it seems familiar. Whose seal is it?"
+choice_3: You say, "I've changed my mind, goodbye."
+response_1: Westley says, "Pay me 100 gold and I'll tell you that and much more."
+response_2: Westley says, "Pay me 100 gold and I'll tell you that and much more."
+response_3: Westley scowls at you.
+todo_1: continue
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: 2
+next_card_2: 2
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: Westley says, "So? What do you say? Do I get 100 gold?"
+choice_1: You wrestle with yourself. It is a LOT of money, more than you have, but something inside tells you that this shadowy figure could be telling you the truth. "Okay. We have a deal." As you shake hands he gives you a toothy grin.
+choice_2: You say, "No. No. I don't have 100 gold but even if I did I have no reason to trust you."
+choice_3: You say, "I'm not sure. I'll need to think about it."
+response_1: Westley nods. "Good choice. When you get the money return here, I'll find you. But don't take too long, I have enemies and cannot tarry."
+response_2: Westley scowls at you. "If you change your mind you know where to find me."
+response_3: Westley scowls at you. "Suit yourself. You know where to find me."
+todo_1: accepted
+todo_2: end conversation
+todo_3: end conversation
+item_1: None
+item_2: None
+item_3: None
+next_card_1: None
+next_card_2: None
+next_card_3: None
+quest_accepted_1: True
+quest_accepted_2: False
+quest_accepted_3: False
+quest_reward_1: crumpled note
+quest_reward_2: none
+quest_reward_3: none
