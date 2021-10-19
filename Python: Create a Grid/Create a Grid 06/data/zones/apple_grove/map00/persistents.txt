@@ -1,0 +1,59 @@
+name: v0
+command: find_item
+image_filename: sword_on_table.png
+data: ancient sword
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: There is an ancient sword on the table. You put it in your backpack.
+comment: The player finds an ancient sword on a table.
+
+name: e1
+command: find_item_and_change_image
+image_filename: table_and_sword01.png
+data: ancient sword
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: There is an ancient sword on the table. You put it in your backpack.
+comment: The player finds an ancient sword on a table.
+
+name: v1
+command: text
+image_filename: red_bottle_on_table.png
+data: zone_name: text1
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: Nothing to see here, it's just a table.
+comment: Player finds out that a table is, occasionally, just a table.
+
+name: v2
+command: display_image
+image_filename: pine_tree01.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v3
+command: display_image
+image_filename: apple_tree_empty.png
+data: none
+inventory_condition: none
+game_condition: none
+quest_accepted: none
+dialog_text: none
+comment: Just display the image.
+
+name: v4
+command: load_map
+image_filename: portal06.png
+data: zone_name: swindon; map_name: map00
+inventory_condition: any
+game_condition: none
+quest_accepted: none
+dialog_text: Your skin tingles...
+comment: release monster

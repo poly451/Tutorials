@@ -1,0 +1,7 @@
+tile: n0
+npc_file: grumpy.txt
+npc_position: left
+on_contact: flee
+destination_point_x: 1
+destination_point_y: 10
+agro_level: passive

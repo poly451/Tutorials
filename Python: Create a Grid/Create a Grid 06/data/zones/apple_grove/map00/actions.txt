@@ -1,0 +1,44 @@
+name: a1
+command: find_item
+image_display: apple_tree_full.png
+data: red apple
+inventory_condition: none
+game_condition: none
+dialog_text: You find an apple. (PRESS <RETURN>)
+comment: The player picks an apple from the tree and puts it in a backpack
+
+name: a2
+command: find_item
+image_display: wild strawberries
+data: rusty sword
+inventory_condition: any
+game_condition: none
+dialog_text: You find a rusty sword.
+comment: You find a
+
+name: a3
+command: load_map
+image_display: wild strawberries
+data: zone_name: green_lawn; map_name: map01
+inventory_condition: any
+game_condition: none
+dialog_text: There is a low rumble like a heavy door opening. You hear a low growl.
+comment: release monster
+
+name: a4
+command: find_item
+image_display: wild strawberries
+data: red amulet
+inventory_condition: any
+game_condition: none
+dialog_text: You see a flash of something red hidden in the leaves of the plant. You brush them aside and find a red amulet.
+comment: player finds an amulet
+
+name: a5
+command: find_item
+image_display: dry bread
+data: dry bread
+inventory_condition: any
+game_condition: testing_completed
+dialog_text: On the ground you find some dry bread.
+comment: testing.

@@ -1,0 +1,20 @@
+index: 0
+quest_name: westley was murdered
+quest_summary: The player comes back to give Westley the 100 gold only to find that someone has gotten there first and killed him.
+quest_display_text: none
+zone_name_giver: bridge
+map_name_giver: map01
+npc_name_giver: westleydead
+zone_name_receiver: bridge
+map_name_receiver: map01
+npc_name_receiver: westleydead
+quest_area_zone_name: bridge
+quest_area_map_name: map01
+quest_area_npc: westleydead
+quest_area_success_item: gold coin
+quest_area_number_of_success_items: 100
+quest_reward_item: lilly iou
+quest_reward_item_number: 1
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

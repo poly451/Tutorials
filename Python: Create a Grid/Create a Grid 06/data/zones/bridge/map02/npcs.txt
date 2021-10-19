@@ -1,0 +1,15 @@
+tile: n1
+npc_file: westleydead.txt
+npc_position: left
+on_contact: talk
+destination_point_x: 10
+destination_point_y: 8
+agro_level: passive
+
+tile: n2
+npc_file: daith.txt
+npc_position: right
+on_contact: fight
+destination_point_x: none
+destination_point_y: none
+agro_level: agro

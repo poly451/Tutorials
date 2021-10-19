@@ -1,0 +1,47 @@
+index: 0
+prompt: Westley lies on the ground in the midst of a pool of blood. A knife is sticking out of his back. After you recover from the shock, you...
+choice_1: ...check to see if Westley is still alive.
+choice_2: ...search Westley's effects for a note or scroll containing the information he promised to sell you.
+choice_3: ...look around for Westley's attacker. He may have lingered in the shadows.
+response_1: Westley's skin is cold. He has been dead for a few hours.
+response_2: You search Westley's pockets and backpack.
+response_3: You think you see something move near the water. You flee.
+todo_1: end conversation
+todo_2: continue
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: You search Westley's clothes and backpack for a scroll or note, anything that might tell you what information he was going to sell you.
+choice_1: You find a note and take it.
+choice_2: You find a note but do not take it.
+choice_3: You find a note but a sound distracts you. You do not take the note.
+response_1: You barely have time to put the note in your backpack when you hear the loud snap of a branch.
+response_2: You barely have time to stand up when you hear the loud snap of a branch behind you.
+response_3: You whir around and go into a fighting stands ready to attack or be attacked.
+todo_1: accepted
+todo_2: accepted
+todo_3: none
+item_1: lilly iou
+item_2: lilly iou
+item_3: none
+next_card_1: None
+next_card_2: None
+next_card_3: None
+quest_accepted_1: True
+quest_accepted_2: True
+quest_accepted_3: none
+quest_reward_1: lilly iou
+quest_reward_2: lilly iou
+quest_reward_3: none

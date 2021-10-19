@@ -1,0 +1,95 @@
+index: 0
+prompt: The body of your attacker lies before you. He is quite dead.
+choice_1: You decide not to search this man's body.
+choice_2: You search the body for information. Who was he? Why did he attack you?
+choice_3: You search the body for valuables.
+response_1: As you turn away vultures begin to circle.
+response_2: You find a note.
+response_3: You search the dead man's backpack for valuables. You find a silver nugget.
+todo_1: end conversation
+todo_2: take item
+todo_3: continue
+item_1: none
+item_2: lilly iou
+item_3: none
+next_card_1: none
+next_card_2: 1
+next_card_3: 3
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 1
+prompt: You put the note you just found in your backpack. You notice that the man is carrying something in a small pocket sewed into the side of his cloak.
+choice_1: You get a bad feeling about this place. You turn and leave.
+choice_2: You search the pocket.
+choice_3: You search the unfortunate person's shoes.
+response_1: Nothing happens.
+response_2: You discover a lump of metal that is about the size of a robin's egg.
+response_3: You find nothing.
+todo_1: end conversation
+todo_2: take item
+todo_3: take item
+item_1: silver nugget
+item_2: silver nugget
+item_3: silver nugget
+next_card_1: 2
+next_card_2: 2
+next_card_3: 2
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 2
+prompt: There doesn't seem to be anything else to find.
+choice_1: You turn and leave.
+choice_2: Stooping, you close the man's eyes.
+choice_3: Closing your eyes, you say a few words of benediction over the body. Then, stooping, you close the man's eyes.
+response_1: Nothing happens.
+response_2: A sudden wind buffets you and you hear a muted wail.
+response_3: A sudden wind buffets you and you hear a muted wail. Suddenly, a name comes to you, "Julian."
+todo_1: accepted
+todo_2: accepted
+todo_3: accepted
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: true
+quest_accepted_2: true
+quest_accepted_3: true
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
+
+index: 3
+prompt: You put the silver nugget you just found in your backpack.
+choice_1: You decide not to search this man's body.
+choice_2: You search the body for information. Who was he? Why did he attack you?
+choice_3: You take the silver nugget out of your backpack and examine it.
+response_1: As you turn away vultures begin to circle the man's body.
+response_2: You search the dead man's pockets for information. You find a note.
+response_3: It looks as though the silver has been melted. It is likely not valuable, but it is odd that a bandit would be carrying it around.
+todo_1: end conversation
+todo_2: take item
+todo_3: continue
+item_1: none
+item_2: lilly iou
+item_3: none
+next_card_1: none
+next_card_2: 2
+next_card_3: 0
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none

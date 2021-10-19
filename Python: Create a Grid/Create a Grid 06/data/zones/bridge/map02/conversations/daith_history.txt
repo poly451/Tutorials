@@ -1,0 +1,20 @@
+index: 0
+quest_name: searching the corpse of daith
+quest_summary: The player has killed Daith. They now search his corpse and, hopefully, discover the note that has been hidden on his person.
+quest_display_text: none
+zone_name_giver: bridge
+map_name_giver: map02
+npc_name_giver: daith
+zone_name_receiver: bridge
+map_name_receiver: map02
+npc_name_receiver: daith
+quest_area_zone_name: bridge
+quest_area_map_name: map02
+quest_area_npc: daith
+quest_area_success_item: gold coin
+quest_area_number_of_success_items: 20
+quest_reward_item: mercenary note
+quest_reward_item_number: 1
+quest_reward_gold: 0
+quest_accepted: False
+quest_completed: False

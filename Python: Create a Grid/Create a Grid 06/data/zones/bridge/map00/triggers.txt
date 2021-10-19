@@ -1,0 +1,13 @@
+name: t1
+command: load_map
+data: zone_name: bridge; map_name: map01
+inventory_condition: none
+game_condition: none
+comment: Loads a map
+
+name: t2
+command: change_npc_agro
+data: westley
+inventory_condition: none
+game_condition: none
+comment: Makes the indicated NPC agro.

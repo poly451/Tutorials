@@ -1,0 +1,23 @@
+index: 0
+prompt: This person is very dead.
+choice_1: You walk away.
+choice_2: You walk away.
+choice_3: You walk away.
+response_1: Nothing happens.
+response_2: Nothing happens.
+response_3: Nothing happens.
+todo_1: end conversation
+todo_2: end conversation
+todo_3: end conversation
+item_1: none
+item_2: none
+item_3: none
+next_card_1: none
+next_card_2: none
+next_card_3: none
+quest_accepted_1: none
+quest_accepted_2: none
+quest_accepted_3: none
+quest_reward_1: none
+quest_reward_2: none
+quest_reward_3: none
