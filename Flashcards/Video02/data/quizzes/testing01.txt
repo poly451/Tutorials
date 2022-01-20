@@ -1,0 +1,31 @@
+quiz_name: testing01
+index: 0
+prompt: one please pick an option.
+option1: option one ANSWER
+option2: option two
+option3: option three
+answer: 1
+
+quiz_name: testing01
+index: 1
+prompt: two please pick an option.
+option1: option one
+option2: option two ANSWER
+option3: option three
+answer: 2
+
+quiz_name: testing01
+index: 2
+prompt: three please pick an option.
+option1: option one
+option2: option two
+option3: option three ANSWER
+answer: 3
+
+quiz_name: testing01
+index: 3
+prompt: two please pick an option.
+option1: option one
+option2: option two ANSWER
+option3: option three
+answer: 2

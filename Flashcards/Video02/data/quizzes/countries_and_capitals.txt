@@ -1,0 +1,39 @@
+quiz_name: countries and capitals
+index: 0
+prompt: What is the capital of Canada?
+option1: Vancouver
+option2: Winnipeg
+option3: Ottawa
+answer: 1
+
+quiz_name: countries and capitals
+index: 1
+prompt: What is the capital of Argentina?
+option1: Buenos Aires
+option2: San Luis
+option3: Río Grande
+answer: 1
+
+quiz_name: countries and capitals
+index: 2
+prompt: What is the capital of Mali?
+option1: Kati
+option2: Bamako
+option3: Niono
+answer: 2
+
+quiz_name: countries and capitals
+index: 3
+prompt: What is the capital of France?
+option1: Marseille
+option2: Avignon
+option3: Paris
+answer: 3
+
+quiz_name: countries and capitals
+index: 4
+prompt: What is the capital of Brazil?
+option1: São Paulo
+option2: Brasília
+option3: Rio de Janeiro
+answer: 2

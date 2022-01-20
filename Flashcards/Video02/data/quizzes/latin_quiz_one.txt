@@ -1,0 +1,47 @@
+quiz_name: latin_quiz_one
+index: 0
+prompt: What case is this: The cook is standing there.
+option1: Nominative
+option2: Accusative
+option3: Vocative
+answer: 1
+
+quiz_name: latin_quiz_one
+index: 1
+prompt: What case is this: I saw the cook.
+option1: Nominative
+option2: Accusative
+option3: Vocative
+answer: 2
+
+quiz_name: latin_quiz_one
+index: 2
+prompt: What case is this: The cook's name is Claudius.
+option1: Dative
+option2: Vocative
+option3: Genative
+answer: 3
+
+quiz_name: latin_quiz_one
+index: 3
+prompt: What case is this: I gave a present to the cook.
+option1: Nominative
+option2: Dative
+option3: Vocative
+answer: 2
+
+quiz_name: latin_quiz_one
+index: 4
+prompt: What case is this: I am taller than the cook.
+option1: Nominative
+option2: Ablative
+option3: Vocative
+answer: 2
+
+quiz_name: latin_quiz_one
+index: 5
+prompt: What case is this: I thank you cook.
+option1: Accusative
+option2: Dative
+option3: Vocative
+answer: 3

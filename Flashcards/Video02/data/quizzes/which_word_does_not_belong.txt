@@ -1,0 +1,47 @@
+quiz_name: which word does not belong?
+index: 0
+prompt: Which word is NOT a synonym for GOOD?
+option1: marvelous
+option2: fallacious
+option3: satisfying
+answer: 2
+
+quiz_name: which word does not belong?
+index: 1
+prompt: Which word is NOT a synonym for CHILDISH?
+option1: ripe
+option2: puerile
+option3: infantile
+answer: 1
+
+quiz_name: which word does not belong?
+index: 2
+prompt: Which word is NOT a synonym for GREED?
+option1: cupidity
+option2: munificence
+option3: avarice
+answer: 2
+
+quiz_name: which word does not belong?
+index: 3
+prompt: Which word is NOT a synonym for COURAGE?
+option1: mettle
+option2: fearfulness
+option3: tenacity
+answer: 2
+
+quiz_name: which word does not belong?
+index: 4
+prompt: Which word is NOT a synonym for PRIDE?
+option1: egoism
+option2: haughtiness
+option3: meekness
+answer: 3
+
+quiz_name: which word does not belong?
+index: 5
+prompt: Which word is NOT a synonym for PATIENCE?
+option1: composure
+option2: fortitude
+option3: intolerance
+answer: 3
