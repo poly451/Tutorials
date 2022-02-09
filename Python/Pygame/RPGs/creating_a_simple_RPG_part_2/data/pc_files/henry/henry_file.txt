@@ -1,0 +1,16 @@
+name: henry
+species: human
+profession: warrior
+max_hit_points: 20
+hit_points: 20
+constitution: 100
+attack_distance: 5
+maximum_damage: 2
+chance_to_hit: 70
+experience: 0
+gold: 30
+is_monster: False
+model_type: lpc
+model_name: henry
+sheet_kinds: base, slash, stand, thrust,  unconscious
+sheet_name: stand

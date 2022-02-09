@@ -1,0 +1,20 @@
+index: 15
+item_kind: food
+species: blueberries
+name: wild blueberries
+cost: 5
+hit_points: 1
+filename: blueberries.png
+core_item: False
+units: 4
+
+index: 5
+item_kind: food
+species: stew
+name: soupy stew
+cost: 3
+hit_points: 3
+filename: placeholder.png
+core_item: False
+units: 4
+

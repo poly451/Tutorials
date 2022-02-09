@@ -1,0 +1,1395 @@
+index: 0
+name: w00
+kind: wall
+image: brick_wall02.png
+
+index: 1
+name: a70
+kind: stove
+image: stove01.png
+
+index: 2
+name: l00
+kind: streetlamp
+image: streetlamp02.png
+
+index: 3
+name: t00
+kind: table
+image: table_large_empty_01.png
+
+index: 4
+name: t10
+kind: table
+image: table_and_wine_02.png
+
+index: 5
+name: a20
+kind: counter
+image: tile_counter.png
+
+index: 6
+name: l10
+kind: streetlamp
+image: streetlamp03.png
+
+index: 7
+name: f00
+kind: forest
+image: medievalTile_48.png
+
+index: 8
+name: m00
+kind: rocks
+image: pile_of_rocks01_grey01.png
+
+index: 9
+name: f10
+kind: chair
+image: chair_right_light_green_tile.png
+
+index: 10
+name: f20
+kind: chair
+image: chair_left_light_green_tile.png
+
+index: 11
+name: f30
+kind: chair
+image: chair_down_light_green_tile.png
+
+index: 12
+name: f40
+kind: chair
+image: chair_up_light_green_tile.png
+
+index: 13
+name: c00
+kind: pub
+image: building09.png
+
+index: 14
+name: c10
+kind: pub
+image: building09_grass.png
+
+index: 15
+name: e00
+kind: provisioner
+image: building07.png
+
+index: 16
+name: e10
+kind: provisioner
+image: building07_grass
+
+index: 17
+name: d00
+kind: cobblestones
+image: cobblestones11.png
+
+index: 18
+name: d10
+kind: cobblestones
+image: cobblestones11_light01.png
+
+index: 19
+name: d20
+kind: cobblestones
+image: cobblestones11_light02.png
+
+index: 20
+name: h00
+kind: tile
+image: floor_tile_light_green.png
+
+index: 21
+name: b00
+kind: black
+image: black.png
+
+index: 22
+name: a30
+kind: portal
+image: portal_grass.png
+
+index: 23
+name: a40
+kind: portal
+image: portal_grass02.png
+
+index: 24
+name: l20
+kind: portal
+image: portal_pub01.png
+
+index: 25
+name: g00
+kind: grass
+image: grass02.png
+
+index: 26
+name: a50
+kind: mushrooms
+image: mushrooms01_grass01.png
+
+index: 27
+name: a80
+kind: forest
+image: forest_02.png
+
+index: 28
+name: a60
+kind: flowers
+image: flowers01_grass01.png
+
+index: 29
+name: s00
+kind: strawberries
+image: strawberries01.png
+
+index: 30
+name: a00
+kind: npc_dead
+image: dead_person_cobblestones.png
+
+index: 31
+name: a10
+kind: npc_dead
+image: dead_person_light_green_tile.png
+
+index: 32
+name: q00
+kind: lava
+image: lava01.png
+
+index: 33
+name: v00
+kind: table
+image: bowl_on_table.png
+
+index: 34
+name: v10
+kind: table
+image: red_bottle_on_table.png
+
+index: 35
+name: u00
+kind: box
+image: box_01.png
+
+index: 36
+name: u10
+kind: counter
+image: counter_against_wall02.png
+
+index: 37
+name: u20
+kind: counter
+image: counter01.png
+
+index: 38
+name: u30
+kind: counter
+image: counter02.png
+
+index: 39
+name: u40
+kind: counter
+image: counter03.png
+
+index: 40
+name: u50
+kind: counter
+image: counter04.png
+
+index: 41
+name: u60
+kind: counter
+image: counters_against_wall01.png
+
+index: 42
+name: u70
+kind: wall_counter
+image: wall_counter_books_up.png
+
+index: 43
+name: u80
+kind: wall_counter
+image: wall_counter_up_02.png
+
+index: 44
+name: u90
+kind: wall_counter
+image: wall_counter_right.png
+
+index: 45
+name: i00
+kind: wall_counter
+image: wall_counter_bottom.png
+
+index: 46
+name: i10
+kind: wall_counter
+image: counter_left.png
+
+index: 47
+name: i20
+kind: cobblestones
+image: cobblestones.png
+
+index: 48
+name: i30
+kind: counter
+image: wall_counter_up.png
+
+index: 49
+name: i40
+kind: desk
+image: desk01.png
+
+index: 50
+name: i50
+kind: desk
+image: desk02.png
+
+index: 51
+name: i60
+kind: desk
+image: desk03.png
+
+index: 52
+name: i70
+kind: desk
+image: desk03.png
+
+index: 53
+name: i80
+kind: rug
+image: rug01.png
+
+index: 54
+name: i90
+kind: box
+image: box_02.png
+
+index: 55
+name: n00
+kind: tree
+image: apple_tree_with_apples.png
+
+index: 56
+name: n10
+kind: tree
+image: apple_tree_without_apples.png
+
+index: 57
+name: n20
+kind: water
+image: water01.png
+
+index: 58
+name: n30
+kind: cave
+image: cave01.png
+
+index: 59
+name: n40
+kind: cave
+image: cave_mouth_closed05.png
+
+index: 60
+name: n50
+kind: mountain
+image: mountain08.png
+
+index: 61
+name: n60
+kind: provisioner
+image: alfred_up.png
+
+index: 62
+name: n70
+kind: dirt
+image: dirt01.png
+
+index: 63
+name: n80
+kind: tent
+image: tent01.png
+
+index: 64
+name: n90
+kind: path
+image: path01.png
+
+index: 65
+name: r10
+kind: tree
+image: pine_tree01.png
+
+index: 66
+name: r20
+kind: tree
+image: tree01.png
+
+index: 67
+name: r30
+kind: tree
+image: tree02.png
+
+index: 68
+name: r40
+kind: tree
+image: tree03.png
+
+index: 69
+name: r50
+kind: book
+image: gray_tiles01.png
+
+index: 70
+name: r60
+kind: grass
+image: grass03.png
+
+index: 71
+name: r70
+kind: cliff
+image: cliff01.png
+
+index: 72
+name: r80
+kind: mountain
+image: mountains01.png
+
+kind: rocks
+name: r90
+image: dull_rock01.png
+index: 73
+
+kind: shape
+name: b30
+image: green_circle01.png
+index: 74
+
+kind: cave
+image: cave_mouth02.png
+index: 75
+name: a90
+
+kind: cave
+image: cliff_face01.png
+index: 76
+name: b10
+
+kind: cave
+image: cliff_face02.png
+index: 77
+name: b20
+
+kind: tree
+image: tree_birdnest_16.png
+index: 78
+name: b40
+
+kind: bush
+image: blueberry_bush_full.png
+index: 79
+name: b50
+
+kind: bush
+image: blueberry_bush_empty.png
+index: 80
+name: b60
+
+kind: tile
+image: floor_tile_off_white02.png
+index: 81
+name: b70
+
+kind: table
+image: side_table01.png
+index: 82
+name: b80
+
+kind: chair
+image: chair_red_right.png
+index: 83
+name: b90
+
+kind: chair
+image: chair_red_down02.png
+index: 84
+name: c20
+
+kind: fireplace
+image: fireplace01.png
+index: 85
+name: c30
+
+kind: cabinet
+image: cabinets01.png
+index: 86
+name: c40
+
+kind: cabinet
+image: cabinets02.png
+index: 87
+name: c50
+
+kind: cabinet
+image: cabinets03.png
+index: 88
+name: c60
+
+kind: table
+image: table02.png
+index: 89
+name: c70
+
+kind: torch
+image: torch_standing.png
+index: 90
+name: c80
+
+kind: gems
+image: jewel_crate01.png
+index: 91
+name: c90
+
+kind: gems
+image: jewel_crate02.png
+index: 92
+name: d30
+
+kind: rug
+image: rug02.png
+index: 93
+name: d40
+
+kind: table
+image: table06.png
+index: 94
+name: d50
+
+kind: chair
+image: chair_brown_down.png
+index: 95
+name: d60
+
+kind: chair
+image: chair_brown_left.png
+index: 96
+name: d70
+
+kind: chair
+image: chair_brown_up.png
+index: 97
+name: d80
+
+kind: chair
+image: chair_brown_right.png
+index: 98
+name: d90
+
+kind: couch
+image: couch_brown_down.png
+index: 99
+name: e20
+
+kind: couch
+image: couch_brown_up.png
+index: 100
+name: e30
+
+kind: chair
+image: chair_brown_left_against_wall.png
+index: 101
+name: e40
+
+kind: chair
+image: chair_brown_right_against_wall.png
+index: 102
+name: e50
+
+kind: table
+image: table_facing_right01.png
+index: 103
+name: e60
+
+kind: chair
+image: chair_red_up.png
+index: 104
+name: e70
+
+kind: bench
+image: bench_facing_right.png
+index: 105
+name: e80
+
+kind: bench
+image: bench_facing_right02.png
+index: 106
+name: e90
+
+kind: bookcase
+image: bookcase01.png
+index: 107
+name: f50
+
+kind: plant
+image: garden01.png
+index: 108
+name: f60
+
+kind: gazebo
+image: garden_structure01.png
+index: 109
+name: f70
+
+kind: tree
+image: small_tree01.png
+index: 110
+name: f80
+
+kind: bush
+image: bush01.png
+index: 111
+name: f90
+
+kind: stump
+image: stump01.png
+index: 112
+name: g10
+
+kind: forest
+image: log01.png
+index: 113
+name: g20
+
+kind: tree
+image: tree13.png
+index: 114
+name: g30
+
+kind: tree
+image: tree24.png
+index: 115
+name: g40
+
+kind: tree
+image: tree25.png
+index: 116
+name: g50
+
+kind: tree
+image: tree26.png
+index: 117
+name: g60
+
+kind: tree
+image: tree27.png
+index: 118
+name: g70
+
+kind: tree
+image: tree28.png
+index: 119
+name: g80
+
+kind: tree
+image: small_tree02.png
+index: 120
+name: g90
+
+kind: building
+image: building06.png
+index: 121
+name: h10
+
+kind: plant
+image: garden04.png
+index: 122
+name: h20
+
+kind: building
+image: building01.png
+index: 123
+name: h30
+
+kind: building
+image: building02.png
+index: 124
+name: h40
+
+kind: building
+image: building03.png
+index: 125
+name: h50
+
+kind: building
+image: building04.png
+index: 126
+name: h60
+
+kind: building
+image: building05.png
+index: 127
+name: h70
+
+kind: building
+image: building06.png
+index: 128
+name: h80
+
+kind: building
+image: building08.png
+index: 129
+name: h90
+
+kind: building
+image: building11.png
+index: 130
+name: j00
+
+kind: building
+image: building12.png
+index: 131
+name: j10
+
+kind: building
+image: building13.png
+index: 132
+name: j20
+
+kind: building
+image: building14.png
+index: 133
+name: j30
+
+kind: building
+image: building15.png
+index: 134
+name: j40
+
+kind: building
+image: building16.png
+index: 135
+name: j50
+
+kind: statue
+image: statue01.png
+index: 136
+name: j60
+
+kind: building
+image: jewelers_home.png
+index: 137
+name: j70
+
+kind: building
+image: tent01.png
+index: 138
+name: j80
+
+kind: sign
+image: bridge_sign.png
+index: 139
+name: j90
+
+kind: tree
+image: tree_pine_20.png
+index: 140
+name: k00
+
+kind: tree
+image: tree05.png
+index: 141
+name: k10
+
+kind: mountain
+image: mountain_grass01.png
+index: 142
+name: k20
+
+kind: mountain
+image: mountain_grass02.png
+index: 143
+name: k30
+
+kind: forest
+image: forest06.png
+index: 144
+name: k40
+
+kind: forest
+image: forest07.png
+index: 145
+name: k50
+
+kind: forest
+image: forest08.png
+index: 146
+name: k60
+
+kind: forest
+image: forest09.png
+index: 147
+name: k70
+
+kind: forest
+image: forest10.png
+index: 148
+name: k80
+
+kind: grass
+image: grass04.png
+index: 149
+name: k90
+
+kind: forest
+image: forest_dirt01.png
+index: 150
+name: l30
+
+kind: forest
+image: forest_dirt02.png
+index: 151
+name: l40
+
+kind: forest
+image: forest_dirt03.png
+index: 152
+name: l50
+
+kind: forest
+image: forest_dirt04.png
+index: 153
+name: l60
+
+kind: forest
+image: forest_dirt05.png
+index: 154
+name: l70
+
+kind: mountain
+image: mountain_dirt01.png
+index: 155
+name: l80
+
+kind: mountain
+image: mountain_dirt02.png
+index: 156
+name: l90
+
+kind: invisible_obstacle
+image: empty.png
+index: 157
+name: m10
+
+kind: stove
+image: pub_countertop_square.png
+index: 158
+name: m20
+
+kind: tile
+image: white.png
+index: 159
+name: m30
+
+kind: tile
+image: light_grey.png
+index: 160
+name: m40
+
+kind: floor
+image: wooden_floor_tiles01.png
+index: 161
+name: m50
+
+kind: floor
+image: wooden_floor_tiles_dark01.png
+index: 162
+name: m60
+
+kind: floor
+image: wooden_floor_tiles_dark02.png
+index: 163
+name: m70
+
+kind: floor
+image: wooden_floor_tiles02.png
+index: 164
+name: m80
+
+kind: floor
+image: floor_tile01.png
+index: 165
+name: m90
+
+kind: floor
+image: floor_tile02.png
+index: 166
+name: o00
+
+kind: floor
+image: floor_tile03.png
+index: 167
+name: o10
+
+kind: floor
+image: floor_tile04.png
+index: 168
+name: o20
+
+kind: floor
+image: floor_tile05.png
+index: 169
+name: o30
+
+kind: floor
+image: fireplace03.png
+index: 170
+name: o40
+
+kind: grass
+image: grasslpc_01.png
+index: 171
+name: o50
+
+kind: grass
+image: grasslpc_02.png
+index: 172
+name: o60
+
+kind: grass
+image: grasslpc_03.png
+index: 173
+name: o70
+
+kind: grass
+image: grass_lower_left_water.png
+index: 174
+name: o80
+
+kind: grass
+image: grass_lower_middle_water.png
+index: 175
+name: o90
+
+kind: grass
+image: grass_lower_right_water.png
+index: 176
+name: p00
+
+kind: grass
+image: grass_upper_right_water.png
+index: 177
+name: p10
+
+kind: grass
+image: grass_upper_left_water.png
+index: 178
+name: p20
+
+kind: grass
+image: grass_upper_middle_water.png
+index: 179
+name: p30
+
+kind: grass
+image: grass_middle_right_water.png
+index: 180
+name: p40
+
+kind: grass
+image: grass_middle_left_water.png
+index: 181
+name: p50
+
+kind: grass
+image: grass_lower_left_corner.png
+index: 182
+name: p60
+
+kind: water
+image: waterlpc_01.png
+index: 183
+name: p70
+
+kind: water
+image: waterlpc_02.png
+index: 184
+name: p80
+
+kind: water
+image: waterlpc_03.png
+index: 185
+name: p90
+
+kind: fence
+image: fence01.png
+index: 186
+name: q10
+
+kind: fence
+image: fence02.png
+index: 187
+name: q20
+
+kind: fence
+image: fence_upper_left_corner.png
+index: 188
+name: q30
+
+kind: fence
+image: fence_upper_right_corner.png
+index: 189
+name: q40
+
+kind: fence
+image: fence_lower_right_corner.png
+index: 190
+name: q50
+
+kind: fence
+image: fence_lower_left_corner.png
+index: 191
+name: q60
+
+kind: fence
+image: fence_upper_lower.png
+index: 192
+name: q70
+
+kind: rocks
+image: rock.png
+index: 193
+name: q80
+
+kind: rocks
+image: rocks.png
+index: 194
+name: q90
+
+kind: dirt
+image: dirtlpc_01.png
+index: 195
+name: r00
+
+kind: dirt
+image: dirtlpc_02.png
+index: 196
+name: s10
+
+kind: dirt
+image: dirtlpc_03.png
+index: 197
+name: s20
+
+kind: dirt
+image: dirt_grass_lower_right.png
+index: 198
+name: s30
+
+kind: dirt
+image: dirt_grass_lower_middle.png
+index: 199
+name: s40
+
+kind: dirt
+image: dirt_grass_lower_left.png
+index: 200
+name: s50
+
+kind: dirt
+image: dirt_grass_left_middle.png
+index: 201
+name: s60
+
+kind: dirt
+image: dirt_grass_right_middle.png
+index: 202
+name: s70
+
+kind: dirt
+image: dirt_grass_upper_left.png
+index: 203
+name: s80
+
+kind: dirt
+image: dirt_grass_upper_middle.png
+index: 204
+name: s90
+
+kind: dirt
+image: dirt_grass_upper_right.png
+index: 205
+name: t20
+
+kind: grass
+image: grass_dirt_lower_right.png
+index: 206
+name: t30
+
+kind: grass
+image: grass_dirt_lower_left.png
+index: 207
+name: t40
+
+kind: grass
+image: grass_dirt_upper_right.png
+index: 208
+name: t50
+
+kind: grass
+image: grass_dirt_upper_left.png
+index: 209
+name: t60
+
+kind: bench
+image: bench01.png
+index: 210
+name: t70
+
+kind: bench
+image: bench02.png
+index: 211
+name: t80
+
+kind: garden
+image: garden05.png
+index: 212
+name: t90
+
+kind: garden
+image: garden06.png
+index: 213
+name: v20
+
+kind: floor
+image: wooden_floor_tile02.png
+index: 214
+name: v30
+
+kind: floor
+image: wooden_floor_tiles02.png
+index: 215
+name: v40
+
+kind: stairs
+image: stairs_big.png
+index: 216
+name: v50
+
+kind: door
+image: door02.png
+index: 217
+name: v60
+
+kind: wall
+image: wall_pub.png
+index: 218
+name: v70
+
+kind: wall
+image: wall_stone_window_candle_lit.png
+index: 219
+name: v80
+
+kind: door
+image: door08.png
+index: 220
+name: v90
+
+kind: tile
+image: border_right.png
+index: 221
+name: w10
+
+kind: tile
+image: border_left.png
+index: 222
+name: w20
+
+kind: tile
+image: border_above.png
+index: 223
+name: w30
+
+kind: tile
+image: border_below.png
+index: 224
+name: w40
+
+kind: wall
+image: wall_with_empty_bottles.png
+index: 225
+name: w50
+
+kind: tree
+image: trees.png
+index: 226
+name: w60
+
+kind: grass
+image: tuft_of_grass.png
+index: 227
+name: w61
+
+kind: grass
+image: grassLPC_01_debugging.png
+index: 228
+name: w62
+
+kind: house
+image: house01_0.png
+index: 229
+name: a11
+
+kind: house
+image: house01_1.png
+index: 230
+name: a12
+
+kind: house
+image: house01_2.png
+index: 231
+name: a13
+
+kind: house
+image: house01_3.png
+index: 232
+name: a14
+
+kind: house
+image: house01_4.png
+index: 233
+name: a15
+
+kind: house
+image: house01_5.png
+index: 234
+name: a16
+
+kind: path
+image: warf01.png
+index: 235
+name: a17
+
+kind: water
+image: waterlpc.png
+index: 236
+name: a18
+
+kind: path
+image: warf_plain01.png
+index: 237
+name: a19
+
+kind: obstacle
+image: misc_barrels_food.png
+index: 238
+name: a21
+
+kind: obstacle
+image: woodpile01.png
+index: 239
+name: a22
+
+kind: building
+image: room01_0.png
+index: 240
+name: a23
+
+kind: building
+image: room01_1.png
+index: 241
+name: a24
+
+kind: building
+image: room01_2.png
+index: 242
+name: a25
+
+kind: building
+image: room01_3.png
+index: 243
+name: a26
+
+kind: building
+image: room01_4.png
+index: 244
+name: a27
+
+kind: building
+image: room01_5.png
+index: 245
+name: a28
+
+kind: obstacle
+image: sacks01.png
+index: 246
+name: a29
+
+kind: building
+image: room02_0.png
+index: 247
+name: a31
+
+kind: building
+image: room02_1.png
+index: 248
+name: a32
+
+kind: building
+image: room02_2.png
+index: 249
+name: a33
+
+kind: building
+image: room02_3.png
+index: 250
+name: a34
+
+kind: building
+image: room02_4.png
+index: 251
+name: a35
+
+kind: building
+image: room02_5.png
+index: 252
+name: a36
+
+kind: building
+image: room02_6.png
+index: 253
+name: a37
+
+kind: building
+image: room02_7.png
+index: 254
+name: a38
+
+kind: building
+image: room02_8.png
+index: 255
+name: a39
+
+kind: building
+image: room02_door_0.png
+index: 256
+name: a41
+
+kind: building
+image: room02_door_1.png
+index: 257
+name: a42
+
+kind: building
+image: room02_door_2.png
+index: 258
+name: a43
+
+kind: building
+image: room02_door_3.png
+index: 259
+name: a44
+
+kind: building
+image: room02_door_4.png
+index: 260
+name: a45
+
+kind: building
+image: room02_door_5.png
+index: 261
+name: a46
+
+kind: building
+image: room02_door_6.png
+index: 262
+name: a47
+
+kind: building
+image: room02_door_7.png
+index: 263
+name: a48
+
+kind: building
+image: room02_door_8.png
+index: 264
+name: a49
+
+kind: npc_dead
+image: man_with_gold_ring.png
+index: 265
+name: a51
+
+kind: tile
+image: ritual_circle.png
+index: 266
+name: a52
+
+kind: tile
+image: blood_patch_01.png
+index: 267
+name: a53
+
+kind: ring
+image: gold_ring01.png
+index: 268
+name: a54
+
+kind: water
+image: grass_upper_left_corner.png
+index: 269
+name: a55
+
+kind: cave
+image: cave_entrance01.png
+index: 270
+name: a56
+
+kind: cave
+image: rock_wall01.png
+index: 271
+name: a57
+
+kind: cave
+image: rock_wall02.png
+index: 272
+name: a58
+
+kind: cave
+image: rock_wall03.png
+index: 273
+name: a59
+
+kind: chest
+image: chest01.png
+index: 274
+name: a61
+
+kind: chest
+image: chest01_alt.png
+index: 275
+name: a62
+
+kind: bush
+image: blueberry_bush_empty.png
+index: 276
+name: a63
+
+kind: tile
+image: grid.png
+index: 277
+name: a64
+
+kind: portal
+image: portal10.png
+index: 278
+name: a65
+

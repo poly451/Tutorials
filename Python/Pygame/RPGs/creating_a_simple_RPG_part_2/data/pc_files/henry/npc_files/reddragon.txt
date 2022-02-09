@@ -1,0 +1,19 @@
+name: reddragon
+function: predator
+species: dragon
+profession: unknown
+max_hit_points: 200
+hit_points: 200
+constitution: 200
+agro_level: agro
+attack_distance: 100
+maximum_damage: 10
+chance_to_hit: 97
+experience: 0
+gold: 500
+is_monster: True
+model_type: complex
+model_name: reddragon
+sheet_kinds: base, stand, slash, unconscious
+animation_kind: lpc
+is_player: False

@@ -1,0 +1,19 @@
+name: ben
+function: questgiver
+species: human
+profession: lamplighter
+max_hit_points: 20
+hit_points: 20
+constitution: 50
+agro_level: passive
+attack_distance: 10
+maximum_damage: 1
+chance_to_hit: 70
+experience: 0
+gold: 1
+is_monster: False
+model_type: complex
+model_name: lamplighter
+sheet_kinds: base, idle
+animation_kind: lpc
+is_player: False
