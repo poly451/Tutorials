@@ -1,0 +1,41 @@
+name: b00
+image: black.png
+size: original
+position_x: None
+position_y: None
+comment: A small solid in the middle of a block.
+
+name: m10
+image: empty.png
+size: original
+position_x: None
+position_y: None
+comment: None
+
+name: a02
+image: black.png
+size: original
+position_x: None
+position_y: None
+comment: None
+
+name: a21
+image: misc_barrels_food.png
+size: original
+position_x: None
+position_y: None
+comment: None
+
+name: a22
+image: woodpile01.png
+size: original
+position_x: None
+position_y: None
+comment: None
+
+name: a29
+image: sacks01.png
+size: original
+position_x: None
+position_y: None
+comment: None

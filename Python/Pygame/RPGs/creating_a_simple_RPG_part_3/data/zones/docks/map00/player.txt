@@ -1,0 +1,2 @@
+tile: p00
+player_position: down
