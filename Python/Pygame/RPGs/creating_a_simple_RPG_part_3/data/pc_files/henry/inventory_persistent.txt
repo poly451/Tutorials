@@ -1,0 +1,48 @@
+index: 23
+persistent_kind: money
+name: gold coin
+quality: 1
+cost: 1
+top_damage: 0
+minimum_damage: 0
+filename: gold_coin.png
+core_item: false
+units: 3
+range_of_effect: 0
+
+index: 28
+persistent_kind: sword
+name: rusty sword
+quality: 1
+cost: 0
+top_damage: 1
+minimum_damage: 0
+filename: sword02.png
+core_item: false
+units: 2
+range_of_effect: 1
+
+index: 4
+persistent_kind: magic item
+name: gold ring
+quality: 10
+cost: 20
+top_damage: 0
+minimum_damage: 0
+filename: gold_ring01.png
+core_item: False
+units: 2
+range_of_effect: 1
+
+index: 29
+persistent_kind: necklace
+name: red amulet
+quality: 1
+cost: 50
+top_damage: 0
+minimum_damage: 0
+filename: placeholder.png
+core_item: True
+units: 2
+range_of_effect: 0
+

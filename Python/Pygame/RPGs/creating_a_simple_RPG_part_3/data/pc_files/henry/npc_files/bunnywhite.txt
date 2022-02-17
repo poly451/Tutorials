@@ -1,0 +1,19 @@
+name: bopbop
+function: nuisance
+species: rabbit
+profession: unknown
+max_hit_points: 20
+hit_points: 20
+constitution: 50
+agro_level: passive
+attack_distance: 10
+maximum_damage: 1
+chance_to_hit: 70
+experience: 0
+gold: 1
+is_monster: False
+model_type: simple
+model_name: bunny
+sheet_kinds: base, stand
+animation_kind: animals
+is_player: False
