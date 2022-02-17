@@ -1,0 +1,4 @@
+character_name: henry
+zone_name: docks
+map_name: map00
+profession_name: warrior
