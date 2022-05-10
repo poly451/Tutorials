@@ -1,0 +1,219 @@
+index: 0
+title: Goodbye!
+text: Thanks for playing :-)
+choice_1: none
+choice_2: none
+choice_3: none
+goto_1: none
+goto_2: none
+goto_3: none
+command: Quit
+
+index: 1
+title: You discover a pyramid
+text:A drought has hit your country and your family is starving. They need money to buy food. You decide to go to the nearest great city to find work. Unfortunately, while you and your fellow travelers were in the middle of the desert, a raiding company attacked and you became separated from the group. After a few days, just as your food and water run out, you discover the ruin of an ancient city.
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1: 21
+goto_2: none
+goto_3: none
+command: continue
+
+index: 2
+title: You lie down
+text: Your body used to be filled with aches and pains and thirst was like a serpent devouring you from the inside. But now you are calm. Nothing hurts. You slip away...
+choice_1: Goodbye
+choice_2: Start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 3
+title: You flee
+text: You turn and run.@Unfortunately you run headlong into a giant spider. As you try to scream it encases you in fine silk and, as you frantically struggle, carries you deep into its layer.
+choice_1: Goodbye
+choice_2: start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 4
+title: Death by dart
+text: Darts tear through your skin. The world goes dark.
+choice_1: Goodbye
+choice_2: start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 5
+title: Death by falling
+text: The floor beneath you disappears. As you fall you barely have time to notice the stone floor rushing up to meet you. The darkness claims you.
+choice_1: Goodbye
+choice_2: start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 6
+title: Death by Food Poisoning
+text: A new kind of pain begins to gnaw at your stomach. Your muscles begin to spasm. Bending over, you throw up, but it's too late. The world fades to black.
+choice_1: Goodbye
+choice_2: start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 21
+title: You discover a pyramid, continued
+text: In the center of the city is a great pyramid. There is a ramp leading to the top.
+choice_1: You climb the ramp
+choice_2: You turn away and find a comfy place to lie down
+choice_3: none
+goto_1: 22
+goto_2: 2
+goto_3: none
+command: continue
+
+index:22
+title: You climb the ramp up to the door
+text: Starving and dying of thirst, you climb the ramp and stand in front of a door cut into the side of the pyramid. Not having the strength to stand up anymore you lean on the door.@The door opens.@The room before you is the color of death and smells twice as bad.@
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1:23
+goto_2:none
+goto_3: none
+command:continue
+
+index: 23
+title: You climb the ramp up to the door, continued
+text: Your backpack contains a torch.@
+choice_1: Enter the room
+choice_2: Light your torch and enter the room
+choice_3: Light your torch, look for traps and enter the room
+goto_1:24
+goto_2:25
+goto_3: 26
+command:continue
+
+index:24
+title:You enter the room
+text: The door slams shut behind you plunging the room into darkness. The walls seem to close in on you and you gasp for air. Disoriented, you take a few lurching steps deeper into the room.@
+choice_1: You need to get out of this pyramid, now!
+choice_2: none
+choice_3: none
+goto_1:3
+goto_2:none
+goto_3: none
+command:continue
+
+index:25
+title:Light your torch and enter the room
+text:The room you are in is of medium size and has high ceilings (it is 25 feet deep and 35 feet wide; the ceiling is 15 feet from the ground). The door slams shut behind you, plunging the room into darkness except for the light of your torch. You hear the scurrying, skittering sounds of insects running from the light of your torch.@The room smells musty and there is a thick layer of dust on the floor. From the marks in the dust it looks as though people have been here recently, but you can't make out a clear set of footprints.@On the far side of the room there is a hole in the floor with a ladder leading down.@A trap is triggered! Darts fire out of the wall opposite you.
+choice_1: The darts tear through your skin. You fall...
+choice_2: none
+choice_3: none
+goto_1:4
+goto_2:none
+goto_3: none
+command:continue
+
+index:26
+title:Light your torch, look for traps, and enter the room
+text: The room you are in is of medium size and has high ceilings (it is 25 feet deep and 35 feet wide; the ceiling is 15 feet from the ground). The door slams shut behind you, plunging the room into darkness except for the light of your torch. You hear the scurrying, skittering sounds of insects running from the light of your torch.@The room smells musty and there is a thick layer of dust on the floor. From the marks in the dust it looks as though people have been here recently, but you can't make out a clear set of footprints.@--@After you check for traps you notice that on the far side of the room there is a hole in the floor with a ladder leading down.@You also notice that there is a handle on the wall to the west. It is within reach.
+choice_1: You walk toward the ladder.
+choice_2: You pull the handle.
+choice_3: none
+goto_1:27
+goto_2: 28
+goto_3: none
+command:continue
+
+index:27
+title: You use the ladder to descend to the room below
+text: This room contains dusty, rotten chests of what may have been food but has now been mummified. Desperate, you look at the contents. It might still be edible... maybe? In any case, the room seems as though it hasn't been disturbed for a very long time. Otherwise, the room is empty.@To the south you see a door. To the west you notice a dusty, worn tapestry hanging on the wall.
+choice_1: You are starving. The food, even though it has been gnawed on by some creature whose bones are nearby, might be edible. You pick up a piece and cautiously nibble on it.
+choice_2: You walk over to the door and try to open it
+choice_3: You walk over to the tapestry
+goto_1: 6
+goto_2: 29
+goto_3: 30
+command: continue
+
+index: 28
+title: Death by falling
+text: Upon pulling the handle, you hear and feel a rumbling beneath you. The stone you are standing on is a trap door.@
+choice_1: continue
+choice_2:none
+choice_3: none
+goto_1:5
+goto_2:none
+goto_3: none
+command: continue
+
+index: 29
+title: You walk over to the door and try to open it
+text: You walk over to what appears to be a door in the south wall and try to open it. The hinges creak, but the door does open wide enough for you to squeeze through.
+choice_1: Enter the room.
+choice_2: You creep through the door, pressing your back into the wall in order to try and avoid any traps that may lie in wait for an unwary explorer.
+choice_3: none
+goto_1:4
+goto_2:5
+goto_3: none
+command: continue
+
+index: 30
+title: You walk over to the tapestry
+text: The tapestry is worn and filled with holes. As you look at it you feel a slight draft.
+choice_1: Look behind the tapestry
+choice_2: Use your torch to set fire to the tapestry
+choice_3: Walk over to the door in the south wall.
+goto_1:31
+goto_2: 32
+goto_3: 29
+command: continue
+
+index: 31
+title: Look behind the tapestry
+text: You wonder if there is a hole in the wall. Grabbing the tapestry and lift it away. As expected, you see an opening in the wall. Then you feel woozy.
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1: 6
+goto_2: none
+goto_3: none
+command: continue
+
+index: 32
+title: You set the tapestry on fire
+text: As the last embers of the ancient tapestry float away you see a hidden doorway.
+choice_1: You go through the doorway
+choice_2: You decide that this doorway looks dodgy and decide to examine the door in the south wall.
+choice_3: none
+goto_1: 4
+goto_2: 29
+goto_3: none
+command: continue
+
+index: 100
+title: The End
+text: Before you lies not only food and drink but gold enough to support both you and your entire family for the rest of your days. The End
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1: 0
+goto_2: none
+goto_3: none
+command: continue

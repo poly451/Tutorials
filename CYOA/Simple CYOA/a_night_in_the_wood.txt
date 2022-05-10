@@ -1,0 +1,197 @@
+index: 0
+title: Goodbye!
+text: Thanks for playing :-)
+choice_1: none
+choice_2: none
+choice_3: none
+goto_1: none
+goto_2: none
+goto_3: none
+command: Quit
+
+index: 1
+title: A Night in the Wood
+text:Your grandmother has recently retired to a cottage in the middle of a very old forest. Your parents have asked you to deliver a care basket filled with her favorite foods.@---@You’ve been having headaches lately; the doctors say that it’s the stress of college. But it's spring break now and seeing your gran could be just what you need.  At the very least, the drive out to the country will be relaxing@---@Your trip is uneventful–except for the ever-present headache, although that seems to be diminishing the farther away from college you get. Unfortunately, by the time you arrive at the outskirts of the forest it is full dark. Gran said that the path that takes you through the wood to her place is safe. So... No problem, right?@
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1: 2
+goto_2: none
+goto_3: none
+command: continue
+
+index: 2
+title: The Beginning
+text: You stand at the start of a narrow path. You have your cell-phone in your hand and a backpack filled with goodies for your gran. The phone is currently pulling double-duty as a flashlight.@The complete black of a moonless night has fallen.@---@Although you’re not usually scared of the dark, perhaps it would be better if someone who knows the way comes to get you? One of Gran’s neighbors?@You have a choice:@
+choice_1: Before starting down the path, call your Gran and ask her to send one of her friends to come meet you.@
+choice_2: Continue down the path, alone.
+choice_3: none
+goto_1: 3
+goto_2: 6
+goto_3: none
+command: continue
+
+index: 3
+title: Call your Gran
+text: In order to call your Gran you’ll have to turn off your flashlight app.@You have a choice. Do you:@
+choice_1: Turn off your flashlight app and place the call
+choice_2: Keep the app on and text your friend instead.
+choice_3: none
+goto_1: 4
+goto_2: 5
+goto_3: none
+command: continue
+
+index:4
+title:A few seconds in the dark won’t kill you … probably
+text: You are spooked by the occasional forest sound–just a moment ago an owl hooted from the branches of a nearby tree.@Feeling silly you turn off your app and call your gran. Unfortunately, all you get is an error signal. Perhaps you’re in a dead zone?
+choice_1: Try to text your gran
+choice_2: Proceed along the path, walking toward the cabin.
+choice_3: none
+goto_1:5
+goto_2:6
+goto_3: none
+command:continue
+
+index:5
+title:You text your gran
+text:You try to text your Gran. What message to send? Slightly embarrassed you type, “Hi! I’m on my way, but I’m feeling a little lost. Is there any chance one of your neighbors could come and meet me so I don't have to walk through the dark woods alone?”@You press send, but all you get for your trouble is a message that says, “Your text failed to send.” @As you read this you hear a twig snap behind you! You wheel around, heart pounding. “Who’s there?!” You shine your flashlight into the thick darkness, but the darkness swallows the light.@Your choices:@
+choice_1: This is too scary. You decide to go home and come back tomorrow.
+choice_2: Time to put your fears away and just get to the cabin!
+choice_3: none
+goto_1:7
+goto_2:6
+goto_3: none
+command:continue
+
+index:6
+title:Walk down the path toward the cabin
+text:You reach a fork in the road. There are trees to the right and trees to the left.@
+choice_1:Take the left-hand fork
+choice_2:Take the right-hand fork
+choice_3: none
+goto_1:8
+goto_2:15
+goto_3: none
+command:continue
+
+index:7
+title:You give up and go home
+text:“This is for the birds!” you say, exasperated, and turn around to head back to your car. As you do so, a gigantic beast steps out of the darkness and stands before you. He roars, setting your hair on end. Before you can run, he bounds toward you and decapitates you with one swipe of his huge paw.@
+choice_1:Start over
+choice_2:Goodbye
+choice_3: none
+goto_1:1
+goto_2:0
+goto_3: none
+command:continue
+
+index:8
+title:Take the left-hand fork
+text:As you walk down the path you spot a cabin through the trees. A feeling of relief rushes over you. Grinning, you walk up to it.@But … Something is odd. There are no lights on. And it’s only 8:30 pm! There is NO WAY your gran knew your were coming over but decided to go to bed early.@Perhaps she had to leave and has left a note for you?@Puzzled, you walk up the creaky front stops and look for some sort of message. There isn’t any. The panic increases but you tell yourself not to freak out. Perhaps Gran has simply gone to bed early.@
+choice_1:continue
+choice_2: none
+choice_3: none
+goto_1: 9
+goto_2: none
+goto_3: none
+command:continue
+
+index: 9
+title: Take the left-land fork, continued
+text: You knock on the front door but there is no response.@Maybe she forgot you were coming today. She’s probably out visiting a friend and will come home in a few minutes.@Maybe she has left the door open for you?@You try it and it opens!@---@You flick on the nearest light switch but nothing happens. The blackness seems to press in on you. Where is Gran?@You check your phone’s battery: 40%. Not good. The flashlight app uses a LOT of battery power. You need to charge your phone so you need to find a power source. Your parents mentioned that your Gran kept a generator at the cabin for emergencies. But where would it be?@You shine your light around the kitchen. Pinned to the fridge is something that looks like a note. You grab it and read it. @It turns out not to be a note at all, but a map of the premises. It looks like there is a generator in the basement and some candles and matches in the attic.@
+choice_1: Look for the generator in the basement.
+choice_2: Search the attic for candles.
+choice_3: none
+goto_1: 100
+goto_2: 100
+goto_3: none
+command: continue
+
+index: 10
+title: The heart of the forest
+text: As you walk deeper into the forest you see a vague, indistinct, greenish yellow glow. Curious, you draw closer to the light.@Hooded figures are stopped over a big black pot of bubbling, noxious smelling liquid. they are chanting something...
+choice_1: continue
+choice_2: none
+choice_3: none
+goto_1: 11
+goto_2: none
+goto_3: none
+command: continue
+
+index: 11
+title: The heart of the forest, continued
+text: As you move hesitantly forward you step on a dry stick. It breaks and in the stillness the sound is like a gunshot.@The wizened elderly women turn around and glare at you. You try to flee but you may as well be running through molasses. A moment later you feel boney hands grab you. A quiet, cool darkness claims you.
+choice_1: Goodbye
+choice_2: Start over
+choice_3: none
+goto_1: 0
+goto_2: 1
+goto_3: none
+command: continue
+
+index: 14
+title: Take the right-hand path
+text: You decide to take the right-hand path. Moving quickly down the path you come upon a clearing. Even though it’s dark you can make out two cabins, one is tall and skinny while the other is short and squat. The short squat one looks relatively new while the tall skinny one looks very old–Chris’s father, a real estate salesman, would have said it had “character.”@One of them might be Chris’ cabin. At the very least, perhaps you will be able to find someone to let you recharge your phone. Which cabin do you wish to go to?@
+choice_1: The tall narrow cabin
+choice_2: The short squat cabin
+choice_3: none
+goto_1: 15
+goto_2: 16
+goto_3: none
+command: continue
+
+index:15
+title:The tall narrow cabin
+text:As you walk toward the tall, narrow cabin you hear the wind moan as it seeks out the chinks in the elderly wooden structure. You reach the end of the walk and knock on the door. As you do, a bit of paint flakes off and lingually falls to the dirt below. The grass around you is brown and shriveled. A noise like a groan pieces the silence around you, but where did it …@The door opens.@
+choice_1:continue
+choice_2:none
+choice_3:none
+goto_1: 18
+goto_2: none
+goto_3: none
+command:continue
+
+index:16
+title:The short squat cabin
+text:You walk down the broad gravelly path that leads to the front door of the short squat cabin. Even though it’s dark, you can tell it is painted a cheerful yellow and that there are flowers planted in carefully tended beds beside the path.@You climb the two steps to the door and knock. After a few minutes the door creaks open and an elderly woman peeks out. “Yes? Can I help you?” she asks.@Your spirits instantly fall. This isn’t Chris’ cabin. Still, perhaps you can recharge your phone’s battery and try to call your friends. Perhaps she will even have a landline!@But there is something not quite right about the place. The flowers are a bit too sculpted, the lawn is a bit too green, a bit too perfect. Your gut screams at you to run.@But you're at the door now and she's about to open it. What do you do?@
+choice_1: Turn and walk away.
+choice_2: Tell yourself you're being silly and continue.
+choice_3: none
+goto_1:100
+goto_2:100
+goto_3: none
+command:continue
+
+index: 17
+title: Oh well, how bad could it be?
+text: After explaining your situation to the elderly woman she gladly welcomes you, all cautiousness gone. “Of course you can recharge your phone, the outlet is right there” she says, gesturing to an outlet beside a couch. “The neighbor calls me Miss Eizner, but my friends call me Lilly.” She smiles at you but the smile seems a bit too wide.@“My granddaughter installed that when she visited me last year, she’s going in for electrical engineering.” Lilly was clearly proud of the girl.@With a sigh of relief you take the charging cord out of your backpack and plug your phone into the wall.@You glance at your phone’s battery level. 7%. Not good, not good at all.@Waiting breathlessly, you stare at your phone’s power bar. Nothing happens.@“Excuse me, ”@“Oh Dear!” She says, giving you an aprizing look. “How is that charging thing going? Everything fine?@“Umm, no. It doesn’t seem to be working,” you say and, once again, check the connection.@“Oh well. That’s Jenny for you–that’s my granddaughter’s name. I said she was going into electrical engineering, but I never said she was GOOD at it!@You sigh. Oh well. @“Oh too bad. Well, I’ve got a map of the area around here somewhere, it will show you where the cabins are. I can look for that, it shouldn’t be too difficult to find, and while you wait I’ll serve you some tea. How about it?@She seems like a lovely old woman, but there’s something about her, something eerie. @
+choice_1:Thank you. A map and some tea would be delightful.
+choice_2:No thank you, I must be going.
+choice_3: none
+goto_1: 100
+goto_2: 100
+goto_3: none
+command:continue
+
+index: 18
+title:The tall narrow cabin, continued
+text:A middle-aged man in a dirty red cardigan fills the doorway and scowls down on you.@“Hi!” you say, beginning to regret knocking. “Umm, look, I’m trying to find my friend’s cabin and have gotten lost. It should be fairly close by. His name is Chris, it’s his parent’s place."@“I have no idea what you’re talking about!” the man says, his scowl deepening. @“Okay. Fine. Look, my cell phone won’t work here, I think this area might be a dead zone or something. Would you mind if I used your landline to call my friend and ask for directions? @“Yes,” the man says, deadpan, and tries to shut the door in your face.@
+choice_1:You mumble something derogatory about the strange man’s manners and walk back to the path. Perhaps you need to walk deeper into the heart of the forest.
+choice_2:You don’t give up. Your phone needs charging and you really need directions.
+choice_3: You have had enough of this, you decide to head home.
+goto_1:10
+goto_2:100
+goto_3:7
+command: continue
+
+index: 100
+title: That's all!
+text: I haven't finished this story, I just wanted to give you an idea of what could be done. BTW, this story was adapted from one on Buzzfeed: "Most People Can't Make It Through This "Choose Your Own Adventure" Horror Story – Can You?" Here is the URL: https://www.buzzfeed.com/austin137/can-you-survive-this-choose-your-own-adventure-horror-story
+choice_1: Start over
+choice_2: Goodbye!
+choice_3: None
+goto_1: 1
+goto_2:0
+goto_3: none
+command: continue
